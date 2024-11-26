@@ -1,40 +1,54 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style> 
-#main {
-  width: 140px;
-  height: 300px;
-  border: 1px solid #000000;
-  display: flex;
-  flex-wrap: wrap;
-  align-content: space-around; 
+<style>
+.imgbox {
+  float: left;
+  text-align: center;
+  width: 120px;
+  border: 1px solid gray;
+  margin: 4px;
+  padding: 6px;
 }
 
-#main div {
-  width: 70px;
-  height: 70px;
+button {
+  width: 100%;
 }
 </style>
 </head>
 <body>
 
-<h1>Change align-content with JavaScript</h1>
+<h3>Difference between display:none and visiblity: hidden</h3>
+<p><strong>visibility:hidden</strong> hides the element, but it still takes up space in the layout.</p>
+<p><strong>display:none</strong> removes the element from the document. It does not take up any space.</p>
 
-<div id="main">
-  <div style="background-color:coral;"></div>
-  <div style="background-color:lightblue;"></div>
-  <div style="background-color:khaki;"></div>
-  <div style="background-color:pink;"></div>
-  <div style="background-color:lightgrey;"></div>
-  <div style="background-color:lightgreen;"></div>
+<div class="imgbox" id="imgbox1">Box 1<br>
+  <img src="img_5terre.jpg" alt="Italy" style="width:100%">
+  <button onclick="removeElement()">Remove</button>
 </div>
 
+<div class="imgbox" id="imgbox2">Box 2<br>
+  <img src="img_lights.jpg" alt="Lights" style="width:100%">
+  <button onclick="changeVisibility()">Hide</button>
+</div>
 
+<div class="imgbox">Box 3<br>
+  <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  <button onclick="resetElement()">Reset All</button>
+</div>
 
 <script>
-function myFunction() {
-  document.getElementById("main").style.alignContent = "space-between";
+function removeElement() {
+  document.getElementById("imgbox1").style.display = "none";
+}
+
+function changeVisibility() {
+  document.getElementById("imgbox2").style.visibility = "hidden";
+}
+
+function resetElement() {
+  document.getElementById("imgbox1").style.display = "block";
+  document.getElementById("imgbox2").style.visibility = "visible";
 }
 </script>
 
