@@ -1,4 +1,4 @@
-baseURL = 'https://nicspics.netlify.app'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'neuw'
