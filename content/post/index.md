@@ -1,5 +1,8 @@
 ---
-site: blogdown:::blogdown_site
+title: "First Post"
+date: 2023-12-29T12:01:19-05:00
+draft: true
+tags: ["foo", "bar"]
 ---
 
-<!-- This file is for blogdown only. Please do not edit it. -->
+This is my very first post
