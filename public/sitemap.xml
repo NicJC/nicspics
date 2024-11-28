@@ -2,16 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://nicspics.netlify.app/</loc>
+    <lastmod>2020-12-19T15:44:19+00:00</lastmod>
+  </url><url>
+    <loc>https://nicspics.netlify.app/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <loc>https://nicspics.netlify.app/categories/</loc>
   </url><url>
-    <loc>/post/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>https://nicspics.netlify.app/tags/</loc>
   </url>
 </urlset>
