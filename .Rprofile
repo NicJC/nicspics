@@ -21,3 +21,8 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.139.2")
+
+options(
+  blogdown.generator.server = TRUE,
+  blogdown.hugo.server = c('-D', '-F', '--navigateToChanged')
+)

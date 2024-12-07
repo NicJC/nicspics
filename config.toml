@@ -1,8 +1,9 @@
 baseURL = "https://nicspics.netlify.app/"
 languageCode = "en-us"
 title = "nicspics"
-
 theme = "neuw"
+canonifyurls = true
+paginate = 10
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
