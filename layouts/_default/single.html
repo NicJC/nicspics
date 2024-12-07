@@ -1,5 +1,31 @@
 {{ define "main" }}
-<h2>{{ .Title }}</h2>
-<p>{{ .PublishDate }}</p>
-<div>{{ .Content }}</div>
+<section id="main">
+
+  <div>
+       
+           {{ .Content }}
+        
+  </div>
+</section>
+<aside id="meta">
+    <div>
+    <section>
+<p><b>
+
+Created on:</b></p>
+      <h6 id="date"> {{ .Date.Format "Mon, Jan 2, 2006" }} </h6>
+      
+    </section>
+    
+    
+
+    </div>
+
+{{- $jsFile := .Title | anchorize -}}
+{{- $pathJS := (printf "%s%s%s" "js/posts/" $jsFile ".js" ) -}}
+
+{{- if (fileExists (printf "%s%s" "static/" $pathJS)) -}}
+  <script type="text/javascript" src="{{ $pathJS | absURL }}"></script>
+{{- end -}}
+</aside>
 {{ end }}
