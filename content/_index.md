@@ -97,7 +97,7 @@ Feel free to download and browse!
 
 <p></p>
 
-<img src="/./_index_files/banner.png" alt="" width="100%" height="100px"/>
+<img src="/./_index_files/banner.png" alt="" width="100%" height="110px"/>
 
 <div class="tagcloud">
 
