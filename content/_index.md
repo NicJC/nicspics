@@ -34,7 +34,7 @@ date: 2024-12-08T11:20:19Z
 
 
 a:hover{
-color: #96172e;
+color: #446478;
 padding:5px;
 
 }
