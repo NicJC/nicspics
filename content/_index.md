@@ -20,16 +20,24 @@ date: 2024-12-08T11:20:19Z
   font-family: sans-serif; 
 }
 
+#aboutTitle{
+  text-align: centre;
+  font-color:green;
+  line-height: 17px;
+  font-size: justify;
+  word-break: break;
+  flex-flow: column wrap;
+  font-family: sans-serif;
+}
 
 
 
 
 a:hover{
-color: #d3e3e0;
+color: #96172e;
 padding:5px;
 
 }
-
 
 
 body,
@@ -40,8 +48,13 @@ html {
 }
 
 
+p{
+text-align: left;
+}
 
-
+h2{
+text-align: left;
+}
 
 
 h3{
@@ -49,33 +62,41 @@ text-align: left;
 }
 
 h4{
-text-align: left;
+text-align: center;
 }
 
 h5{
 text-align: center;
 }
+
+aboutTitle{
+  text-align: centre;
+  font-color:green;
+  line-height: 17px;
+  font-size: justify;
+  word-break: break;
+  flex-flow: column wrap;
+  font-family: sans-serif;
+}
+
 </style>
 
 <body>
 
 
-
-
-
-
-<div id="about">
-
-<center>
+<div id="aboutTitle">
 
 <H3>About this site</H3> 
+
+</div>
+
+<div id="about">
 <p></p>
-</center>
-<h4>
+<p>
 Hi, these are personal photos taken by us over the years
 <p>
 Feel free to download and browse
-</h4>
+<p>
 </div>
 
 
@@ -84,7 +105,7 @@ Feel free to download and browse
 <div class="tagcloud">
 <p></p>
 
-<H5>Tag cloud</H5>
+<H4>Tag cloud</H4>
 <center>
 <script>
 $(document).ready(function(){
