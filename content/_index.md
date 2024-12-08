@@ -48,6 +48,13 @@ h3{
 text-align: left;
 }
 
+h4{
+text-align: left;
+}
+
+h5{
+text-align: center;
+}
 </style>
 
 <body>
@@ -77,7 +84,7 @@ Feel free to download and browse
 <div class="tagcloud">
 <p></p>
 
-<H3>Tag cloud</H3>
+<H5>Tag cloud</H5>
 <center>
 <script>
 $(document).ready(function(){

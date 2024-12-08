@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:3557/</loc>
-    <lastmod>2024-12-08T11:20:19+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:3557/post/</loc>
+    <loc>https://nicspics.netlify.app/post/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:3557/about/</loc>
+    <loc>https://nicspics.netlify.app/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:3557/categories/</loc>
+    <loc>https://nicspics.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:3557/tags/</loc>
+    <loc>https://nicspics.netlify.app/tags/</loc>
   </url>
 </urlset>
