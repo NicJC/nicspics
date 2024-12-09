@@ -61,15 +61,7 @@ h5{
 text-align: center;
 }
 
-aboutTitle{
-  text-align: centre;
-  font-color:green;
-  line-height: 17px;
-  font-size: justify;
-  word-break: break;
-  flex-flow: column wrap;
-  font-family: sans-serif;
-}
+
 
 img {
   border-radius: 8px;
