@@ -1,5 +1,6 @@
 ---
-title: 'null'
+slug: photos
+title: 'photos'
 date: "2024-12-08T11:20:19Z"
 ---
 
