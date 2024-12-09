@@ -5,25 +5,9 @@ date: "2024-12-08T11:20:19Z"
 
 <style type="text/css">
 
-#about{
-  width:justify;
-  text-align: left;
-  font-color:black;
-  line-height: 17px;
-  font-size: justify;
-  word-break: break;
-  flex-flow: column wrap;
-  font-family: sans-serif; 
-}
 
-#aboutTitle{
-  text-align: centre;
-  font-color:green;
-  line-height: 17px;
-  font-size: justify;
-  word-break: break;
-  flex-flow: column wrap;
-  font-family: sans-serif;
+
+
 
 
 a:hover{
@@ -71,21 +55,6 @@ img {
 
 <body>
 
-<div id="aboutTitle">
-
-<H3>About this site</H3> 
-
-</div>
-
-<div id="about">
-
-<p>
-Hi, these are personal photos taken by us over the years.
-
-Feel free to download and browse!
-</p>
-
-</div>
 
 <p></p>
 
