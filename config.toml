@@ -7,23 +7,14 @@ uglyurls = true
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
-[menu]
-  [[menu.main]]
+[[menu.main]]
     name = "Home"
-    pre = "home"
     url = "/"
     weight = 1
-  [[menu.main]]
-    name = "Posts"
-    pre = "pen-tool"
-    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    url = "/about/"
     weight = 2
-  [[menu.main]]
-    name = "Tags"
-    pre = "tag"
-    url = "/tags/"
-    weight = 3
-
 
 
 reading_time = true
