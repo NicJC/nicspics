@@ -1,7 +1,9 @@
 ---
-slug: photos
 title: 'photos'
+author: ''
 date: "2024-12-08T11:20:19Z"
+tags:
+  - pics
 ---
 
 <style type="text/css">
