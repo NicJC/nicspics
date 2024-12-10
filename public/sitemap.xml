@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nicspics.netlify.app/post/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nicspics.netlify.app/</loc>
     <lastmod>2024-12-08T11:20:19+00:00</lastmod>
   </url><url>
@@ -10,9 +13,6 @@
   </url><url>
     <loc>https://nicspics.netlify.app/tags/</loc>
     <lastmod>2024-12-08T11:20:19+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/post/</loc>
-    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nicspics.netlify.app/categories/</loc>
   </url>

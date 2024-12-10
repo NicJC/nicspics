@@ -7,14 +7,21 @@ uglyurls = true
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
+permalinks:
+  post: /:year/:month/:day/:slug/
+  
+menu:
+  main:
+    - name: Home
+      url: /
+    - name: About
+      url: /about/
+    - name: Photo gallery
+      url: /post/2024-11-28-photos/
+
+      
+
+
 
 
 reading_time = true
