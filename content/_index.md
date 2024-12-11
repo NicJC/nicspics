@@ -9,10 +9,6 @@ tags:
 <style type="text/css">
 
 
-
-
-
-
 a:hover{
 color: #446478;
 padding:5px;
