@@ -22,7 +22,7 @@ html {
   font-family: sans-serif;
 }
 
-.tag-cloud{
+.tagcloud{
   color: darkcyan;
   text-align: center;
   }
