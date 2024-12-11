@@ -73,7 +73,7 @@ img {
 <center>
 
 <H4>Tag cloud</H4>
-
+<center>
 <script>
 $(document).ready(function(){
   $(".nav-tabs a").click(function(){
@@ -82,7 +82,7 @@ $(document).ready(function(){
 });
 
 </div>
-
+</center>
 </script> 
 
 </center>
