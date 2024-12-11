@@ -22,9 +22,14 @@ html {
   font-family: sans-serif;
 }
 
+.tag-cloud{
+  color: darkcyan;
+  text-align: center;
+  }
+
 
 p{
-text-align: left;
+text-align: center;
 }
 
 h2{
