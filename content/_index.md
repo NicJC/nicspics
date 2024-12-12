@@ -68,11 +68,16 @@ img {
 
 <img src="/./_index_files/banner.png" alt="" width="100%" height="110px"/>
 
+
+
+<p></p>
+</div>
 <div class="tagcloud">
-
-<center>
-
-<H4>Tag cloud</H4>
+<p>
+</p>
+<H3>
+Tag cloud
+</H3>
 <center>
 <script>
 $(document).ready(function(){
@@ -82,10 +87,7 @@ $(document).ready(function(){
 });
 
 </div>
-</center>
-</script> 
-
-</center>
+</script>
 
 </body>
 </head>
