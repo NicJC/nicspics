@@ -30,7 +30,7 @@ html {
 
 .tagcloud{
   color: darkcyan;
-  text-align: center;
+  float: right;
   }
   
 .a{
