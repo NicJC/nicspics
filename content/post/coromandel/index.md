@@ -60,22 +60,11 @@ img {
 
 <p></p>
 
-<img src="images/footsteps.png" alt="" width="200px" height="200px"/>
-
-<div class="tagcloud">
-
 <center>
 
-<H4>Tag cloud</H4>
+<img src="images/footsteps.png" alt="" width="200px" height="200px"/>
 
-<script>
-const start = Date.now();
-doSomeLongRunningProcess();
-console.log(`Time elapsed: ${Date.now() - start} ms`);
-
-</div>
-
-</script> 
+ 
 
 </center>
 

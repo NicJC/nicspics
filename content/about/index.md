@@ -55,31 +55,7 @@ img {
 
 </style>
 
-<body>
 
-
-<p></p>
-
-<img src="/./_index_files/banner.png" alt="" width="100%" height="110px"/>
-
-<div class="tagcloud">
-
-<center>
-
-<H4>Tag cloud</H4>
-
-<script>
-const start = Date.now();
-doSomeLongRunningProcess();
-console.log(`Time elapsed: ${Date.now() - start} ms`);
-
-</div>
-
-</script> 
-
-</center>
-
-</body>
 </head>
 </html>
 
