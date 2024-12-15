@@ -23,7 +23,7 @@ html {
 
 .tagcloud{
    position: absolute;
-   bottom: 0;
+   bottom: 15;
    left: 50%;
   }
   
