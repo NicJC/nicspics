@@ -8,13 +8,6 @@ tags:
 
 <style type="text/css">
 
-.tagcloud{
-    text-align: center;
-  border: 3px solid grey;
-
-}
-
-
 a:hover{
 color: #446478;
 padding:5px;
