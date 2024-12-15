@@ -23,7 +23,7 @@ html {
 
 .tagcloud{
   color: darkcyan;
-  margin: 0 auto;
+  margin: 1400 auto;
   }
   
 .a{
@@ -73,7 +73,7 @@ text-align: center;
 <p>
 </p>
 <H3>
-Tag cloud
+Tags
 </H3>
 <center>
 <script>
