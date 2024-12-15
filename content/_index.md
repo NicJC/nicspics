@@ -22,8 +22,9 @@ html {
 }
 
 .tagcloud{
-  color: darkcyan;
-  margin: 1400 auto;
+   position: absolute;
+   top: 10px;
+   left: 50%;
   }
   
 .a{
