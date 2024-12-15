@@ -30,7 +30,7 @@ html {
 
 .tagcloud{
   color: darkcyan;
-  float: right;
+  margin: 0 auto;
   }
   
 .a{
@@ -61,9 +61,7 @@ text-align: center;
 
 
 
-img {
-  border-radius: 8px;
-}
+
 
 </style>
 
