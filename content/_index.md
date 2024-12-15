@@ -86,7 +86,7 @@ $(document).ready(function(){
 
 </div>
 </script>
-
+</center>
 </body>
 </head>
 </html>
