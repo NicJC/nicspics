@@ -6,57 +6,7 @@ tags:
   - home
 ---
 
-<style>
-
-a:hover{
-color: #446478;
-padding:5px;
-
-}
-
-body,
-html {
-  width: 100%;
-  height: 100%;
-  font-family: sans-serif;
-}
-
-.tagcloud{
-   position: relative;
-   padding: 10px;
-   bottom: auto;
-   left: -1500;
-   color:  rgb(128, 159, 191);
-   
-  }
-  
-.a{
-color: violet;
-}
-
-
-p{
-text-align: center;
-}
-
-h2{
-text-align: left;
-}
-
-
-h3{
-text-align: left;
-}
-
-h4{
-text-align: center;
-}
-
-h5{
-text-align: center;
-}
-
-</style>
+<link rel="stylesheet" href="styles.css" />
 
 <body>
 
@@ -69,24 +19,6 @@ text-align: center;
 
 <p></p>
 
-<div class="tagcloud">
-<p>
-</p>
-<b>
-<font size="5" color="#474b59">
-tags
-</font>
-</b>
-
-<script>
-$(document).ready(function(){
-  $(".nav-tabs a").click(function(){
-    $(this).tab('show');
-  });
-});
-
-</div>
-</script>
 
 </body>
 </head>

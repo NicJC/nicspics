@@ -2,7 +2,6 @@ baseURL = "https://nicspics.netlify.app/"
 languageCode = "en-us"
 title = "nicspics"
 theme = "neuw"
-uglyurls = true
 
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
@@ -23,6 +22,8 @@ permalinks:
         name = "date"
         weight = 10
         
+        
+custom_css = ["css/custom.css"]        
 
 
 reading_time = true
@@ -41,13 +42,6 @@ menu:
       url: /post/coromandel/
 
       
-
-
-
-
-reading_time = true
-
-enableEmoji = true
 
 [markup]
   [markup.goldmark]
