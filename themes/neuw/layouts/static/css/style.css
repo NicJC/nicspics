@@ -94,6 +94,15 @@ img {
   color: red;
 }
 
+.tag-cloud{
+   position: relative;
+       padding: 10px;
+       bottom: auto;
+       left: -1500;
+       color:  rgb(128, 159, 191);
+       
+}
+
 
 
 
