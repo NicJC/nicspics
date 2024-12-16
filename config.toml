@@ -7,7 +7,7 @@ theme = "neuw"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 permalinks:
-  post: /:year/:month/:day/:slug/
+  post: /:year/:month/:day/
   
 [related]
     threshold = 0 
