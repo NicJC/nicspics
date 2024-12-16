@@ -12,6 +12,13 @@ tags:
 
 <body>
 
+<p>
+
+Welcome to this Photo site, these are pictures from our holidays, and adventures.
+
+
+</p>
+
 </body>
 </head>
 </html>

@@ -23,7 +23,7 @@ permalinks:
         weight = 10
         
         
-custom_css = ["css/custom.css"]        
+custom_css = ["css/style.css"]        
 
 
 reading_time = true
