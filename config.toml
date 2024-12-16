@@ -7,20 +7,7 @@ theme = "neuw"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 permalinks:
-  post: /:year/:month/:day/
-  
-[related]
-    threshold = 0 
-    includeNewer = true
-    toLower = false
-
-    [[related.indices]]
-        name = "categories"
-        weight = 100
-
-    [[related.indices]]
-        name = "date"
-        weight = 10
+  post: /:year/:month/:day/:slug/
         
         
 custom_css = ["css/style.css"]        
