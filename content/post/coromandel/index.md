@@ -16,6 +16,9 @@ img {
 #pic{
 width:100%;
 height: 100px;
+
+float:right;
+
 }
 </style>
 
@@ -25,7 +28,7 @@ height: 100px;
 
 <body>
 <div id="pic">
-<img src="images/ECNI_Master_Map.jpg" alt="" width="500px" height="900px"/>
+<img src="images/Coromandel.png" alt="" width="350px" height="700px"/>
 </div>
 <p>
 
