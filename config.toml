@@ -27,6 +27,12 @@ menu:
       url: /About/
     - name: coromandel
       url: /post/coromandel/
+    - name: nelson
+      url: /post/nelson/
+      
+ [params]
+    author = "Nic Coxen"
+    dateFormat = "25/06/2016"
 
       
 
