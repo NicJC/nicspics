@@ -10,7 +10,7 @@ tags:
 
 <style>
 
-.pic {
+#pic {
   border-radius: 6px;
   border: 1.5px solid black;
 }
@@ -34,7 +34,7 @@ Coromandel holiday pics:
 
 
 <div id = "pic">
-<img style="float: right; margin: 10px 10px 15px 15px;" src="images/Coromandel.png" width="330" height="520"/>
+<img style="float: right; margin: 10px 10px 15px 15px;" src="images/Coromandel.png" width="330" height="420"/>
 </div>
 
 </body>
