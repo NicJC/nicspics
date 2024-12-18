@@ -12,19 +12,10 @@ tags:
 
 .img {
   border-radius: 6px;
-    top: 0;
-    left: 0;
-    position:fixed;
+  border: 1.5px solid black;
 }
 
-#pic{
-  width: 330px;
-  height: 500px;
-  border: 1.5px solid black; 
-  position: fixed;
 
-
-}
 </style>
 
 
@@ -41,11 +32,10 @@ Coromandel holiday pics:
 
 </p>
 
-<center>
-<div id="pic">
-<img src="images/Coromandel.png" alt="" width="330px" height="500px"/>
-</div>
-</center>
+
+
+<img style="float: right; margin: 0px 0px 15px 15px;" src="images/Coromandel.png" width="330" />
+
 
 </body>
 </head>
