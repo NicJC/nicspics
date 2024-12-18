@@ -13,7 +13,8 @@ tags:
 .img {
   border-radius: 6px;
     top: 0;
-  right: 0;
+    left: 0;
+    position:fixed;
 }
 
 #pic{
