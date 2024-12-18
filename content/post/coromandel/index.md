@@ -24,7 +24,7 @@ tags:
   height: 300px;
   border: 1px solid black; 
   display: flex;
-  align-items: end;
+  float: right;
 
 }
 </style>
