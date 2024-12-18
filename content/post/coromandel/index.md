@@ -12,10 +12,6 @@ tags:
 
 .img {
   border-radius: 6px;
-
-  display: block;
-  position:absolute;
-  right:0;bottom:0;
   
 }
 
@@ -23,7 +19,6 @@ tags:
   width: 330px;
   height: 500px;
   border: 1.5px solid black; 
-  
   position: fixed;
   top: 10;
   right: 0;
@@ -36,9 +31,9 @@ tags:
 
 
 <body>
-<div id="pic">
-<img src="images/Coromandel.png" alt="" width="330px" height="500px"/>>
-</div>
+
+
+
 <p>
 
 Coromandel holiday pics:
@@ -46,9 +41,9 @@ Coromandel holiday pics:
 </p>
 
 <center>
-
-<img src="images/footsteps.png" alt="" width="200px" height="200px"/>
-
+<div id="pic">
+<img src="images/Coromandel.png" alt="" width="330px" height="500px"/>>
+</div>
 </center>
 
 </body>

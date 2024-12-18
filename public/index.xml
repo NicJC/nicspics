@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on My New Hugo Site</title>
-    <link>https://nicspics.netlify.app/</link>
+    <link>http://localhost:7291/</link>
     <description>Recent content in home on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nicspics.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:7291/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nelson</title>
-      <link>https://nicspics.netlify.app/post/nelson/</link>
+      <link>http://localhost:7291/post/nelson/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://nicspics.netlify.app/post/nelson/</guid>
+      <guid>http://localhost:7291/post/nelson/</guid>
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;p&gt;Nelson holiday pics:&lt;/p&gt;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;images/waves.jpg&#34; alt=&#34;&#34; width=&#34;800px&#34; height=&#34;200px&#34;/&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://nicspics.netlify.app/about/</link>
+      <link>http://localhost:7291/about/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://nicspics.netlify.app/about/</guid>
+      <guid>http://localhost:7291/about/</guid>
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;p&gt;Welcome to this Photo site, these are pictures from our holidays, and adventures.&lt;/p&gt;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>coromandel</title>
-      <link>https://nicspics.netlify.app/post/coromandel/</link>
+      <link>http://localhost:7291/post/coromandel/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://nicspics.netlify.app/post/coromandel/</guid>
-      <description>&lt;style&gt;&#xD;&#xA;&#xD;&#xA;.img {&#xD;&#xA;  border-radius: 6px;&#xD;&#xA;&#xD;&#xA;  display: block;&#xD;&#xA;  position:absolute;&#xD;&#xA;  right:0;bottom:0;&#xD;&#xA;  &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;#pic{&#xD;&#xA;  width: 330px;&#xD;&#xA;  height: 500px;&#xD;&#xA;  border: 1.5px solid black; &#xD;&#xA;  &#xD;&#xA;  position: fixed;&#xD;&#xA;  top: 10;&#xD;&#xA;  right: 0;&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;div id=&#34;pic&#34;&gt;&#xD;&#xA;&lt;img src=&#34;images/Coromandel.png&#34; alt=&#34;&#34; width=&#34;330px&#34; height=&#34;500px&#34;/&gt;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;p&gt;Coromandel holiday pics:&lt;/p&gt;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;images/footsteps.png&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34;/&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;/html&gt;</description>
+      <guid>http://localhost:7291/post/coromandel/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;&#xD;&#xA;.img {&#xD;&#xA;  border-radius: 6px;&#xD;&#xA;  &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;#pic{&#xD;&#xA;  width: 330px;&#xD;&#xA;  height: 500px;&#xD;&#xA;  border: 1.5px solid black; &#xD;&#xA;  position: fixed;&#xD;&#xA;  top: 10;&#xD;&#xA;  right: 0;&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;p&gt;Coromandel holiday pics:&lt;/p&gt;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;div id=&#34;pic&#34;&gt;&#xD;&#xA;&lt;img src=&#34;images/Coromandel.png&#34; alt=&#34;&#34; width=&#34;330px&#34; height=&#34;500px&#34;/&gt;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
   </channel>
 </rss>
