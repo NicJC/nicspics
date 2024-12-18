@@ -24,8 +24,9 @@ tags:
   height: 550px;
   border: 1.5px solid black; 
   display: flex;
-  float: right;
-  top: 10px;
+  position: fixed;
+  top: 10;
+  right: 10;
 
 }
 </style>
