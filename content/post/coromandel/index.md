@@ -20,13 +20,13 @@ tags:
 }
 
 #pic{
-  width: 350px;
-  height: 550px;
+  width: 330px;
+  height: 500px;
   border: 1.5px solid black; 
-  display: flex;
+  
   position: fixed;
   top: 10;
-  right: 10;
+  right: 0;
 
 }
 </style>
@@ -37,7 +37,7 @@ tags:
 
 <body>
 <div id="pic">
-<img src="images/Coromandel.png" alt="" width="350px" height="550px"/>
+<img src="images/Coromandel.png" alt="" width="330px" height="500px"/>>
 </div>
 <p>
 
