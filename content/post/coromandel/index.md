@@ -14,10 +14,11 @@ img {
 }
 
 #pic{
-width:100%;
-height: 100px;
-
-float:right;
+  width: 220px;
+  height: 300px;
+  border: 1px solid black; 
+  display: flex;
+  align-items: end;
 
 }
 </style>
