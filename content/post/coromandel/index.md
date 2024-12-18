@@ -25,6 +25,8 @@ tags:
   border: 1px solid black; 
   display: flex;
   float: right;
+  top: 30px;
+  padding: 10px;
 
 }
 </style>
