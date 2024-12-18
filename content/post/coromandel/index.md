@@ -8,15 +8,7 @@ tags:
   - coromandel
 ---
 
-<style>
 
-#img {
-  border-radius: 6px;
-  border: 1.0 px solid black;
-}
-
-
-</style>
 
 
 <link rel="stylesheet" href="styles.css" />
@@ -34,7 +26,7 @@ Coromandel holiday pics:
 
 
 
-<img style="float: right; margin: 10px 10px 15px 15px;" src="images/Coromandel.png" width="330" height="420"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/Coromandel.png" width="330" height="420"/>
 
 
 </body>
