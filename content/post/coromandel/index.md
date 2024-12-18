@@ -9,8 +9,14 @@ tags:
 ---
 
 <style>
-img {
-  border-radius: 8px;
+
+.img {
+  border-radius: 6px;
+
+  display: block;
+  position:absolute;
+  right:0;bottom:0;
+  
 }
 
 #pic{
