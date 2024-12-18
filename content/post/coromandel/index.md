@@ -22,11 +22,10 @@ tags:
 #pic{
   width: 220px;
   height: 300px;
-  border: 1px solid black; 
+  border: 1.5px solid black; 
   display: flex;
   float: right;
   top: 30px;
-  padding: 10px;
 
 }
 </style>
