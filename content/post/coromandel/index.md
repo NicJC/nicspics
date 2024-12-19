@@ -26,7 +26,7 @@ Coromandel holiday pics:
 
 
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/Coromandelmap.png" width="360" height="420"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/Coromandel.png" width="360" height="420"/>
 
 
 </body>
