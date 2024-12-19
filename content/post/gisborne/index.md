@@ -19,7 +19,7 @@ Gisborne holiday pics:
 </p>
 
 <center>
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/images/gisborne.jpg" width="450" height="500"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/gisborne.jpg" width="450" height="500"/>
 </center>
 
 </body>
