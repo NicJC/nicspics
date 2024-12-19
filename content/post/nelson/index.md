@@ -19,7 +19,7 @@ Nelson holiday pics:
 </p>
 
 <center>
-<img src="images/waves.jpg" alt="" width="800px" height="200px"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" width="450" height="500"/>
 </center>
 
 </body>
