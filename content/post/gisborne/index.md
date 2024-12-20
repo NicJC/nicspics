@@ -16,6 +16,11 @@ tags:
 
 Gisborne holiday pics:
 
+<center>
+
+<div style="text-align: center;"><img style="border-radius: 6px;border: 1.0px solid black;" src="images/gisborneTOPO2.png" width="1500" height="800"/></div>
+
+</center>
 
 
 </p>
