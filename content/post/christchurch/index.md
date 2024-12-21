@@ -9,6 +9,12 @@ tags:
 
 <link rel="stylesheet" href="styles.css" />
 
+<style>
+
+.button{
+padding: 5px 5px 5px 5px  ;
+}
+
 
 <body>
 
@@ -22,7 +28,7 @@ style="text-align: center;"><img style="border-radius: 6px;border: 1.0px solid b
  <br><br><br>
 
 
-<button onclick="resetImg()">Reset</button>
+<button id="button" onclick="resetImg()">Reset</button>
 </div>
 
 </p>
