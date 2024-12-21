@@ -21,6 +21,7 @@ tags:
    top: 20px;
    right: 30px;
    padding:15px 50px;
+   color: red;
    background-color: transparent;
    border-width: 0;
         }
