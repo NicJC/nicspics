@@ -14,7 +14,10 @@ tags:
 
 <p>
 
-hristchurch holiday pics:
+Christchurch holiday pics:
+
+
+<div style="text-align: center;"><img style="border-radius: 6px;border: 1.0px solid black;" src="images/ChristchurchTOPO5.png" width="1300" height="800"/></div>
 
 </p>
 
