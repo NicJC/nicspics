@@ -9,13 +9,7 @@ tags:
 
 <link rel="stylesheet" href="styles.css" />
 
-<style>
 
-#button{
-padding: 5px 5px 5px 5px  ;
-}
-
-</style>
 <body>
 
 <p>
@@ -24,7 +18,8 @@ Christchurch holiday pics:
 
 
 <div class="container"
-style="text-align: center;"><img style="border-radius: 6px;border: 1.0px solid black;" src="images/ChristchurchTOPO5.png" width="1300" height="800" onclick="enlargeImg()"id="img1" />
+style="text-align: center;"><img style="text-align: center;
+                margin-top: 5em;" src="images/ChristchurchTOPO5.png" width="1300" height="800" onclick="enlargeImg()"id="img1" />
  <br><br><br>
 
 
