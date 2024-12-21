@@ -17,14 +17,14 @@ tags:
 
 <style>
 #button {
-   position: relative;
-   top: 20px;
-   right: 30px;
+   float: right; 
+   margin: 0px 0px 15px 15px;
    padding:15px 50px;
    color: red;
    background-color: transparent;
    border-width: 0;
         }
+        
 </style>
 
 <p>
