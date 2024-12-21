@@ -22,6 +22,7 @@ tags:
    right: 30px;
    padding:15px 50px;
    background-color: transparent;
+   border-width: 0;
         }
 </style>
 
