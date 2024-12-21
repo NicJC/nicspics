@@ -8,23 +8,22 @@ tags:
 ---
 
 <link rel="stylesheet" href="styles.css" />
-<script src=
-"https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js">
-    </script>
+
 
 
 <body>
 
 <style>
 #button {
-   float: right; 
-   margin: 0px 0px 15px 15px;
+   position: relative;
+   float: left;
+   font-weight: bold;
+   margin: 0;
    padding:15px 50px;
-   color: red;
+   color: #e30b0b;
    background-color: transparent;
    border-width: 0;
         }
-        
 </style>
 
 <p>
@@ -37,7 +36,7 @@ style="text-align: center;"><img style="text-align: center;
  <br><br><br>
 
 
-<button id="button" onclick="resetImg()">Reset</button>
+<button id="button" onclick="resetImg()">Reset map</button>
 </div>
 
 <br>
