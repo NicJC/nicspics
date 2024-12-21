@@ -15,7 +15,7 @@ tags:
 <style>
 #button {
   float: right;
-  padding: 10px 20px;
+  padding: 100px 50px;
         }
 </style>
 
@@ -32,7 +32,7 @@ style="text-align: center;"><img style="text-align: center;
 <button id="button" onclick="resetImg()">Reset</button>
 </div>
 
-
+<br>
 
 <center>
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/chch.jpg" width="500" height="500"/>
