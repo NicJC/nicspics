@@ -12,16 +12,12 @@ tags:
 
 <body>
 
-    <style>
-        button {
-            position: static;
-            background-color: #4caf50;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            
+<style>
+#button {
+  float: right;
+  padding: 10px 20px;
         }
-    </style>
+</style>
 
 <p>
 Christchurch holiday pics:
