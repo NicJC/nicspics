@@ -8,6 +8,9 @@ tags:
 ---
 
 <link rel="stylesheet" href="styles.css" />
+<script src=
+"https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js">
+    </script>
 
 
 <body>
@@ -18,6 +21,7 @@ tags:
    top: 20px;
    right: 30px;
    padding:15px 50px;
+   background-color: transparent;
         }
 </style>
 
