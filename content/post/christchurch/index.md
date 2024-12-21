@@ -18,10 +18,9 @@ Christchurch holiday pics:
 
 
 <div class="container"
-style="text-align: center;"><img style="border-radius: 6px;border: 1.0px solid black;" src="images/ChristchurchTOPO5.png" width="1300" height="800" 
-onclick="enlargeImg()"
+style="text-align: center;"><img style="border-radius: 6px;border: 1.0px solid black;" src="images/ChristchurchTOPO5.png" width="1300" height="800" onclick="enlargeImg()"id="img1" />
+ <br><br><br>
 
-id="img1" />
 
 <button onclick="resetImg()">Reset</button>
 </div>
@@ -33,8 +32,8 @@ id="img1" />
 
 </center>
 
- <!-- script to set display property -->
-    <script>
+
+<script>
         img = document.getElementById("img1");
       
         function enlargeImg() {
@@ -47,10 +46,10 @@ id="img1" />
             img.style.transform = "scale(1)";
             img.style.transition = "transform 0.25s ease";
         }
-    </script>
+</script>
 
 </body>
-</head>
+
 </html>
 
 
