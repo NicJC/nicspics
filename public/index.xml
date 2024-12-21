@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on My New Hugo Site</title>
-    <link>http://localhost:4768/</link>
+    <link>https://nicspics.netlify.app/</link>
     <description>Recent content in home on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4768/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nicspics.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>christchurch</title>
-      <link>http://localhost:4768/post/christchurch/</link>
+      <link>https://nicspics.netlify.app/post/christchurch/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4768/post/christchurch/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;#button {&#xD;&#xA;  position: sticky&#xD;&#xA;  bottom: 5px;&#xD;&#xA;  padding: 100px 50px;&#xD;&#xA;        }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;Christchurch holiday pics:&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;div class=&#34;container&#34;&#xD;&#xA;style=&#34;text-align: center;&#34;&gt;&lt;img style=&#34;text-align: center;&#xD;&#xA;                margin-top: 5em;&#34; src=&#34;images/ChristchurchTOPO5.png&#34; width=&#34;1300&#34; height=&#34;800&#34; onclick=&#34;enlargeImg()&#34;id=&#34;img1&#34; /&gt;&#xD;&#xA; &lt;br&gt;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;button id=&#34;button&#34; onclick=&#34;resetImg()&#34;&gt;Reset&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img style=&#34;float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;&#34; src=&#34;images/chch.jpg&#34; width=&#34;500&#34; height=&#34;500&#34;/&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;script&gt;&#xD;&#xA;        img = document.getElementById(&#34;img1&#34;);&#xD;&#xA;      &#xD;&#xA;        function enlargeImg() {&#xD;&#xA;            img.style.transform = &#34;scale(1.5)&#34;;&#xD;&#xA;            img.style.transition = &#34;transform 0.25s ease&#34;;&#xD;&#xA;        }&#xD;&#xA;      &#xD;&#xA;        // Function to reset image size&#xD;&#xA;        function resetImg() {&#xD;&#xA;            img.style.transform = &#34;scale(1)&#34;;&#xD;&#xA;            img.style.transition = &#34;transform 0.25s ease&#34;;&#xD;&#xA;        }&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
+      <guid>https://nicspics.netlify.app/post/christchurch/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;#button {&#xD;&#xA;  position: sticky&#xD;&#xA;  bottom: 5px;&#xD;&#xA;  padding: 20px 50px;&#xD;&#xA;        }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;Christchurch holiday pics:&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;div class=&#34;container&#34;&#xD;&#xA;style=&#34;text-align: center;&#34;&gt;&lt;img style=&#34;text-align: center;&#xD;&#xA;                margin-top: 5em;&#34; src=&#34;images/ChristchurchTOPO5.png&#34; width=&#34;1300&#34; height=&#34;800&#34; onclick=&#34;enlargeImg()&#34;id=&#34;img1&#34; /&gt;&#xD;&#xA; &lt;br&gt;&lt;br&gt;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;button id=&#34;button&#34; onclick=&#34;resetImg()&#34;&gt;Reset&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img style=&#34;float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;&#34; src=&#34;images/chch.jpg&#34; width=&#34;500&#34; height=&#34;500&#34;/&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;script&gt;&#xD;&#xA;        img = document.getElementById(&#34;img1&#34;);&#xD;&#xA;      &#xD;&#xA;        function enlargeImg() {&#xD;&#xA;            img.style.transform = &#34;scale(1.5)&#34;;&#xD;&#xA;            img.style.transition = &#34;transform 0.25s ease&#34;;&#xD;&#xA;        }&#xD;&#xA;      &#xD;&#xA;        // Function to reset image size&#xD;&#xA;        function resetImg() {&#xD;&#xA;            img.style.transform = &#34;scale(1)&#34;;&#xD;&#xA;            img.style.transition = &#34;transform 0.25s ease&#34;;&#xD;&#xA;        }&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>gisborne</title>
-      <link>http://localhost:4768/post/gisborne/</link>
+      <link>https://nicspics.netlify.app/post/gisborne/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4768/post/gisborne/</guid>
+      <guid>https://nicspics.netlify.app/post/gisborne/</guid>
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;p&gt;Gisborne holiday pics:&lt;/p&gt;&#xA;&lt;center&gt;&#xD;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&lt;img style=&#34;border-radius: 6px;border: 1.0px solid black;&#34; src=&#34;images/gisborneTOPO2.png&#34; width=&#34;1500&#34; height=&#34;800&#34;/&gt;&lt;/div&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img style=&#34;float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;&#34; src=&#34;images/gisborne.jpg&#34; width=&#34;450&#34; height=&#34;500&#34;/&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>nelson</title>
-      <link>http://localhost:4768/post/nelson/</link>
+      <link>https://nicspics.netlify.app/post/nelson/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4768/post/nelson/</guid>
+      <guid>https://nicspics.netlify.app/post/nelson/</guid>
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;p&gt;Nelson holiday pics:&lt;/p&gt;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img style=&#34;float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;&#34; src=&#34;images/nelson.jpg&#34; width=&#34;450&#34; height=&#34;500&#34;/&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>taupo</title>
-      <link>http://localhost:4768/post/taupo/</link>
+      <link>https://nicspics.netlify.app/post/taupo/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4768/post/taupo/</guid>
+      <guid>https://nicspics.netlify.app/post/taupo/</guid>
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;p&gt;Taupo holiday pics:&lt;/p&gt;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img style=&#34;float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;&#34; src=&#34;images/taupo_walk.jpg&#34; width=&#34;360&#34; height=&#34;820&#34;/&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>tauranga</title>
-      <link>http://localhost:4768/post/tauranga/</link>
+      <link>https://nicspics.netlify.app/post/tauranga/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4768/post/tauranga/</guid>
+      <guid>https://nicspics.netlify.app/post/tauranga/</guid>
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;p&gt;Tauranga holiday pics:&lt;/p&gt;&#xA;&lt;center&gt;&#xD;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&lt;img style=&#34;border-radius: 6px;border: 1.0px solid black;&#34; src=&#34;images/taurangaTOPO1.png&#34; width=&#34;1500&#34; height=&#34;800&#34;/&gt;&lt;/div&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img style=&#34;float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;&#34; src=&#34;images/taurunga.jpg&#34; width=&#34;450&#34; height=&#34;500&#34;/&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:4768/about/</link>
+      <link>https://nicspics.netlify.app/about/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4768/about/</guid>
+      <guid>https://nicspics.netlify.app/about/</guid>
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;p&gt;Welcome to this Photo site, these are pictures from our holidays, and adventures.&lt;/p&gt;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>coromandel</title>
-      <link>http://localhost:4768/post/coromandel/</link>
+      <link>https://nicspics.netlify.app/post/coromandel/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4768/post/coromandel/</guid>
+      <guid>https://nicspics.netlify.app/post/coromandel/</guid>
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;styles.css&#34; /&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;p&gt;Coromandel holiday pics:&lt;/p&gt;&#xA;&lt;center&gt;&#xD;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&lt;img style=&#34;border-radius: 6px;border: 1.0px solid black;&#34; src=&#34;images/CoromandelTOPO3.png&#34; width=&#34;1500&#34; height=&#34;800&#34;/&gt;&lt;/div&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img style=&#34;float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;&#34; src=&#34;images/hahei beach.jpg&#34; width=&#34;400&#34; height=&#34;600&#34;/&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
   </channel>
