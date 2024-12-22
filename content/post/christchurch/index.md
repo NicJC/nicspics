@@ -13,6 +13,19 @@ tags:
 
 <body>
 
+<style>
+#button {
+   position: relative;
+   float: left;
+   font-weight: bold;
+   margin: margin: 0px 0px 0px 0px;
+   padding:5px 5px;
+   color: #e30b0b;
+   background-color: transparent;
+   border-width: 1;
+        }
+</style>
+
 
 
 <p>
@@ -22,7 +35,7 @@ Christchurch holiday pics:
 <div class="container"
 style="text-align: center;"><img style="text-align: center;
                 margin-top: 5em;" src="images/ChristchurchTOPO5.png" width="1300" height="800" onclick="enlargeImg()"id="img1" />
- <br><br><br>
+ 
 
 
 <button id="button" onclick="resetImg()">Reset map</button>
@@ -35,7 +48,22 @@ style="text-align: center;"><img style="text-align: center;
 
 </center>
 
+<script>
+img = document.getElementById("img1");
+      
+        function enlargeImg() {
+            img.style.transform = "scale(1.5)";
+            img.style.transition = "transform 0.25s ease";
+        }
+      
+        // Function to reset image size
+        function resetImg() {
+            img.style.transform = "scale(1)";
+            img.style.transition = "transform 0.25s ease";
+        }
 
+
+</script>
 
 
 </body>
