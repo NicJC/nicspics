@@ -13,18 +13,7 @@ tags:
 
 <body>
 
-<style>
-#button {
-   position: relative;
-   float: left;
-   font-weight: bold;
-   margin: 0;
-   padding:15px 50px;
-   color: #e30b0b;
-   background-color: transparent;
-   border-width: 0;
-        }
-</style>
+
 
 <p>
 Christchurch holiday pics:
@@ -47,20 +36,7 @@ style="text-align: center;"><img style="text-align: center;
 </center>
 
 
-<script>
-        img = document.getElementById("img1");
-      
-        function enlargeImg() {
-            img.style.transform = "scale(1.5)";
-            img.style.transition = "transform 0.25s ease";
-        }
-      
-        // Function to reset image size
-        function resetImg() {
-            img.style.transform = "scale(1)";
-            img.style.transition = "transform 0.25s ease";
-        }
-</script>
+
 
 </body>
 
