@@ -5,7 +5,7 @@ date: "2024-12-24"
 slug: []
 categories: []
 tags: []
-draft: true
+draft: false
 blogdown::html_page:
   css: /css/style.css
 ---
