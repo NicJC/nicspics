@@ -16,8 +16,7 @@ library(knitr)
 library(leaflet)
 m <- leaflet()
 m <- addTiles(m)
-m <- addMarkers(m, lng=174.71625, lat=-37.1394, popup="Christchurch") 
-# %>% addPopups(lng=172.733211,lat= -43.486805,  "Christchurch")  https://rstudio.github.io/leaflet/reference/leaflet.html#ref-examples
+m <- addMarkers(m, lng=172.636919, lat=-43.532214, popup="Christchurch") # -43.532214, 172.636919
 m
 ```
 
