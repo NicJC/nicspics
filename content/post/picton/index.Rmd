@@ -11,7 +11,7 @@ blogdown::html_page:
 ---
 
 <style>
-body {
+htmlwidget-1 {
     position: absolute;
     left: 250px;}
 </style>

@@ -21,7 +21,7 @@ blogdown::html_page:
 <link href="{{< blogdown/postref >}}index_files/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/leaflet-binding/leaflet.js"></script>
 <style>
-body {
+htmlwidget-1 {
     position: absolute;
     left: 250px;}
 </style>
