@@ -8,6 +8,7 @@ draft: no
 blogdown::html_page:
   css: /css/style.css
   code_folding: hide
+  fig_caption: yes
 ---
 
 <link rel="stylesheet" href="styles.css" />

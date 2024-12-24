@@ -8,6 +8,7 @@ draft: no
 blogdown::html_page:
   css: /css/style.css
   code_folding: hide
+  fig_caption: yes
 ---
 
 <link rel="stylesheet" href="styles.css" />
@@ -17,7 +18,7 @@ Use the map below to scrool through the area of Picton!
 </b></p>
 
 
-```{r echo=FALSE, warning=FALSE, fig.height=7, fig.width=18, fig.align='right'}
+```{r echo=FALSE, warning=FALSE, fig.height=7, fig.width=18, cache=TRUE , fig.cap="Christchurch map"}
 library(htmlwidgets)
 library(knitr)
 
