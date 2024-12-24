@@ -10,15 +10,22 @@ blogdown::html_page:
   code_folding: hide
 ---
 
+<link rel="stylesheet" href="styles.css" />
+
+<p><b>
+Use the map below to scrool through the area of Picton!
+</b></p>
 
 
-```{r echo=FALSE, warning=FALSE, fig.height=7, fig.width=18}
+```{r echo=FALSE, warning=FALSE, fig.height=7, fig.width=18, fig.align='right'}
 library(htmlwidgets)
 library(knitr)
-library(leaflet)
-m <- leaflet()
-m <- addTiles(m)
-m <- addMarkers(m, setView(lng=172.636919, lat=-43.532214, zoom = 5), popup="Christchurch") # -43.532214, 172.636919
+
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=172.636919, lat=-43.532214, popup="Christchurch")
+m%>% setView(172.707324, -43.532214, zoom = 10) 
 m
 
 opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
