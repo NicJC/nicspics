@@ -22,11 +22,16 @@ border: 1.0px solid black;
 </style>
 
 ```{r echo=FALSE, warning=FALSE}
+library(htmlwidgets)
 library(knitr)
 library(leaflet)
 m <- leaflet()
 m <- addTiles(m)
 m <- addMarkers(m, lng=172.636919, lat=-43.532214, popup="Christchurch") # -43.532214, 172.636919
 m
+
+sizingPolicy(
+             knitr.defaultWidth = 1100,
+             knitr.defaultHeight = 900)
 ```
 
