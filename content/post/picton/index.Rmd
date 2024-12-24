@@ -1,12 +1,10 @@
 ---
-title: "picton"
+title: picton
 author: ''
-date: "2024-12-24"
-slug: []
-categories: []
+date: '2024-12-24'
 tags:
   - picton
-draft: false
+draft: no
 blogdown::html_page:
   css: /css/style.css
   code_folding: hide
@@ -14,10 +12,11 @@ blogdown::html_page:
 
 <style>
 
-.leaflet html-widget html-fill-item html-widget-static-bound leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom{
+#leaflet html-widget html-fill-item html-widget-static-bound leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom{
 
-width: 800px;
-height: 600px;
+width: 1000px;
+height: 800px;
+border: 1.0px solid black;
 }
 
 </style>

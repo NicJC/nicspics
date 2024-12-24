@@ -1,12 +1,10 @@
 ---
-title: "picton"
+title: picton
 author: ''
-date: "2024-12-24"
-slug: []
-categories: []
+date: '2024-12-24'
 tags:
   - picton
-draft: false
+draft: no
 blogdown::html_page:
   css: /css/style.css
   code_folding: hide
@@ -23,9 +21,10 @@ blogdown::html_page:
 <link href="{{< blogdown/postref >}}index_files/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/leaflet-binding/leaflet.js"></script>
 <style>
-&#10;.leaflet html-widget html-fill-item html-widget-static-bound leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom{
-&#10;width: 800px;
-height: 600px;
+&#10;#leaflet html-widget html-fill-item html-widget-static-bound leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom{
+&#10;width: 1000px;
+height: 800px;
+border: 1.0px solid black;
 }
 &#10;</style>
 <div class="leaflet html-widget html-fill-item" id="htmlwidget-1" style="width:672px;height:480px;"></div>
