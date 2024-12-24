@@ -30,8 +30,12 @@ m <- addTiles(m)
 m <- addMarkers(m, lng=172.636919, lat=-43.532214, popup="Christchurch") # -43.532214, 172.636919
 m
 
-sizingPolicy(
-             knitr.defaultWidth = 1100,
-             knitr.defaultHeight = 900)
+leafletSizingPolicy(
+  defaultWidth = "100%",
+  defaultHeight = 400,
+  padding = 0,
+  browser.fill = TRUE
+
+)
 ```
 
