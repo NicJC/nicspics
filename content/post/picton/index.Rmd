@@ -12,16 +12,14 @@ blogdown::html_page:
 
 <style>
 
-#htmlwidget-1{
+#map{
 
-width: 1000px;
-height: 800px;
 border: 1.0px solid black;
 }
 
 </style>
 
-```{r echo=FALSE, warning=FALSE, fig.height=10, fig.width=20}
+```{r echo=FALSE, warning=FALSE, fig.height=7, fig.width=18}
 library(htmlwidgets)
 library(knitr)
 library(leaflet)
