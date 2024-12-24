@@ -18,7 +18,7 @@ library(knitr)
 library(leaflet)
 m <- leaflet()
 m <- addTiles(m)
-m <- addMarkers(m, lng=172.636919, lat=-43.532214, popup="Christchurch") # -43.532214, 172.636919
+m <- addMarkers(m, lng=172.636919, lat=-43.532214, zoom = 18, popup="Christchurch") # -43.532214, 172.636919
 m
 
 opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
