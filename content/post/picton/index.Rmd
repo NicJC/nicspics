@@ -12,10 +12,21 @@ blogdown::html_page:
   code_folding: hide
 ---
 
+<style>
 
-```{r}
+.leaflet html-widget html-fill-item html-widget-static-bound leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom{
+
+width: 800px;
+height: 600px;
+}
+
+```{r, include=FALSE}
 library(knitr)
 library(leaflet)
+```
+
+
+```{r echo=FALSE}
 m <- leaflet()
 m <- addTiles(m)
 m <- addMarkers(m, lng=172.636919, lat=-43.532214, popup="Christchurch") # -43.532214, 172.636919
