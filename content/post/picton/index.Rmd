@@ -21,7 +21,7 @@ border: 1.0px solid black;
 
 </style>
 
-```{r echo=FALSE, warning=FALSE, fig.height=35, fig.width=28}
+```{r echo=FALSE, warning=FALSE, fig.height=28, fig.width=19}
 library(htmlwidgets)
 library(knitr)
 library(leaflet)
