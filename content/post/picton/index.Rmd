@@ -22,7 +22,7 @@ height: 600px;
 
 </style>
 
-```{r echo=FALSE, include=FALSE}
+```{r echo=FALSE, warning=FALSE}
 library(knitr)
 library(leaflet)
 m <- leaflet()
