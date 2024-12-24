@@ -21,7 +21,7 @@ border: 1.0px solid black;
 
 </style>
 
-```{r echo=FALSE, warning=FALSE}
+```{r echo=FALSE, warning=FALSE, fig.height=35, fig.width=28}
 library(htmlwidgets)
 library(knitr)
 library(leaflet)
@@ -30,12 +30,5 @@ m <- addTiles(m)
 m <- addMarkers(m, lng=172.636919, lat=-43.532214, popup="Christchurch") # -43.532214, 172.636919
 m
 
-leafletSizingPolicy(
-  defaultWidth = "100%",
-  defaultHeight = 400,
-  padding = 0,
-  browser.fill = TRUE
-
-)
 ```
 
