@@ -12,7 +12,7 @@ blogdown::html_page:
 
 <style>
 
-#leaflet html-widget html-fill-item html-widget-static-bound leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom{
+#htmlwidget-1{
 
 width: 1000px;
 height: 800px;
