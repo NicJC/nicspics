@@ -4,10 +4,12 @@ author: ''
 date: "2024-12-24"
 slug: []
 categories: []
-tags: []
+tags:
+  - picton
 draft: false
 blogdown::html_page:
   css: /css/style.css
+  code_folding: hide
 ---
 
 
