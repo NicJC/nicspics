@@ -11,12 +11,9 @@ blogdown::html_page:
 ---
 
 <style>
-
-#map{
-
-border: 1.0px solid black;
-}
-
+body {
+    position: absolute;
+    left: 250px;}
 </style>
 
 ```{r echo=FALSE, warning=FALSE, fig.height=7, fig.width=18}
