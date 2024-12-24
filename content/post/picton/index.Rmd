@@ -13,9 +13,16 @@ blogdown::html_page:
 
 <link rel="stylesheet" href="styles.css" />
 
+
+
 <p><b>
 Use the map below to scrool through the area of Picton!
 </b></p>
+
+
+<center>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" width="400" height="600"/>
+</center>
 
 
 ```{r echo=FALSE, warning=FALSE, fig.height=7, fig.width=18, cache=TRUE , fig.cap="Christchurch map"}

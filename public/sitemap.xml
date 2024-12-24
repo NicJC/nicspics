@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/post/picton/</loc>
+    <loc>http://localhost:4768/post/picton/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/picton/</loc>
+    <loc>http://localhost:4768/tags/picton/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/</loc>
+    <loc>http://localhost:4768/post/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>http://localhost:4768/tags/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/gisborne/</loc>
+    <loc>http://localhost:4768/post/gisborne/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/gisborne/</loc>
+    <loc>http://localhost:4768/tags/gisborne/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/nelson/</loc>
+    <loc>http://localhost:4768/post/nelson/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/nelson/</loc>
+    <loc>http://localhost:4768/tags/nelson/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/taupo/</loc>
+    <loc>http://localhost:4768/post/taupo/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/taupo/</loc>
+    <loc>http://localhost:4768/tags/taupo/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/tauranga/</loc>
+    <loc>http://localhost:4768/post/tauranga/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/tauranga/</loc>
+    <loc>http://localhost:4768/tags/tauranga/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/about/</loc>
+    <loc>http://localhost:4768/tags/about/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/about/</loc>
+    <loc>http://localhost:4768/about/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/coromandel/</loc>
+    <loc>http://localhost:4768/post/coromandel/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/coromandel/</loc>
+    <loc>http://localhost:4768/tags/coromandel/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>http://localhost:4768/</loc>
     <lastmod>2024-12-08T11:20:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/home/</loc>
+    <loc>http://localhost:4768/tags/home/</loc>
     <lastmod>2024-12-08T11:20:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>http://localhost:4768/categories/</loc>
   </url>
 </urlset>
