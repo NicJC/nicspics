@@ -10,11 +10,7 @@ blogdown::html_page:
   code_folding: hide
 ---
 
-<style>
-htmlwidget-1 {
-    position: absolute;
-    left: 250px;}
-</style>
+
 
 ```{r echo=FALSE, warning=FALSE, fig.height=7, fig.width=18}
 library(htmlwidgets)
@@ -25,5 +21,7 @@ m <- addTiles(m)
 m <- addMarkers(m, lng=172.636919, lat=-43.532214, popup="Christchurch") # -43.532214, 172.636919
 m
 
+opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
