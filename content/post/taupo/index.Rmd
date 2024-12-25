@@ -1,0 +1,41 @@
+---
+title: taupo
+author: ''
+date: '2024-12-24'
+tags:
+  - taupo
+draft: no
+blogdown::html_page:
+  css: /css/style.css
+  code_folding: hide
+  fig_caption: yes
+---
+
+<link rel="stylesheet" href="styles.css" />
+
+
+
+
+Use the map below to scroll through the area of Taupo!
+The map is interactive.
+
+
+<center>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/taupo_walk.jpg" width="400" height="600"/>
+</center>
+
+
+```{r echo=FALSE, warning=FALSE, fig.height=4, fig.width=10, cache=TRUE , fig.cap="Taupo map"}
+library(leaflet)
+library(knitr)
+
+m <- leaflet() %>% addTiles() %>% setView(176.077472, -38.692837, zoom = 12)
+m  #  -38.692837, 176.077472
+
+
+
+
+
+opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```

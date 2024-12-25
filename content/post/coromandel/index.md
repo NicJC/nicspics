@@ -24,7 +24,8 @@ blogdown::html_page:
 
 <link rel="stylesheet" href="styles.css" />
 
-Use the map below to scrool through the area of Picton!
+Use the map below to scroll through the area of Coromandel!
+The map is interactive.
 
 <center>
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/hahei beach.jpg" width="400" height="600"/>

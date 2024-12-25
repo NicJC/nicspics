@@ -16,8 +16,8 @@ blogdown::html_page:
 
 
 
-Use the map below to scrool through the area of Picton!
-
+Use the map below to scroll through the area of Coromandel!
+The map is interactive.
 
 
 <center>
