@@ -1,23 +1,22 @@
 ---
-title: picton
+title: "picton"
 author: ''
-date: '2024-12-24'
-tags:
-  - picton
-draft: no
+date: "2024-12-24"
+tags: picton
+draft: false
 blogdown::html_page:
   css: /css/style.css
   code_folding: hide
-  fig_caption: yes
+  fig_caption: true
 ---
 
 <link rel="stylesheet" href="styles.css" />
 
 
 
-<p><b>
+
 Use the map below to scrool through the area of Picton!
-</b></p>
+
 
 
 <center>
@@ -25,15 +24,15 @@ Use the map below to scrool through the area of Picton!
 </center>
 
 
-```{r echo=FALSE, warning=FALSE, fig.height=7, fig.width=18, cache=TRUE , fig.cap="Christchurch map"}
-library(htmlwidgets)
+```{r echo=FALSE, warning=FALSE, fig.height=4, fig.width=10, cache=TRUE , fig.cap="Christchurch map"}
+library(leaflet)
 library(knitr)
 
 
 m <- leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=172.636919, lat=-43.532214, popup="Christchurch")
-m%>% setView(172.707324, -43.532214, zoom = 10) 
+  addMarkers(lng=174.006452, lat=-41.288479, popup="Christchurch")  #  -41.288479, 174.006452
+m%>% setView(174.006452, -41.288479, zoom = 10) 
 m
 
 opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
