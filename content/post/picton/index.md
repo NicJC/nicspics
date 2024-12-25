@@ -1,13 +1,14 @@
 ---
-title: "picton"
+title: picton
 author: ''
-date: "2024-12-24"
-tags: picton
-draft: false
+date: '2024-12-24'
+tags:
+  - picton
+draft: no
 blogdown::html_page:
   css: /css/style.css
   code_folding: hide
-  fig_caption: true
+  fig_caption: yes
 ---
 
 <link href="{{< blogdown/postref >}}index_files/htmltools-fill/fill.css" rel="stylesheet" />
