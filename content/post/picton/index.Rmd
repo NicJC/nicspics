@@ -25,7 +25,7 @@ Use the map below to scrool through the area of Picton!
 </center>
 
 
-```{r echo=FALSE, warning=FALSE, fig.height=4, fig.width=10, cache=TRUE , fig.cap="Christchurch map"}
+```{r echo=FALSE, warning=FALSE, fig.height=4, fig.width=10, cache=TRUE , fig.cap="Picton map"}
 library(leaflet)
 library(knitr)
 

@@ -35,7 +35,7 @@ Use the map below to scrool through the area of Picton!
 <div class="leaflet html-widget html-fill-item" id="htmlwidget-1" style="width:960px;height:384px;"></div>
 <script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[-41.288479,174.006452,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Christchurch",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[-41.288479,-41.288479],"lng":[174.006452,174.006452]},"setView":[[-41.288479,174.006452],10,[]]},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-<span id="fig:unnamed-chunk-1"></span>Figure 1: Christchurch map
+<span id="fig:unnamed-chunk-1"></span>Figure 1: Picton map
 </p>
 
 </div>
@@ -45,7 +45,7 @@ Use the map below to scrool through the area of Picton!
 <div class="leaflet html-widget html-fill-item" id="htmlwidget-2" style="width:960px;height:384px;"></div>
 <script type="application/json" data-for="htmlwidget-2">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[-41.288479,174.006452,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Christchurch",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[-41.288479,-41.288479],"lng":[174.006452,174.006452]}},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
-<span id="fig:unnamed-chunk-1"></span>Figure 1: Christchurch map
+<span id="fig:unnamed-chunk-1"></span>Figure 1: Picton map
 </p>
 
 </div>
