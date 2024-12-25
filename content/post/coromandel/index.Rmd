@@ -1,0 +1,39 @@
+---
+title: coromandel
+author: ''
+date: '2024-12-20'
+tags:
+  - coromandel
+draft: no
+blogdown::html_page:
+  css: /css/style.css
+  code_folding: hide
+  fig_caption: yes
+---
+
+<link rel="stylesheet" href="styles.css" />
+
+
+
+
+Use the map below to scrool through the area of Picton!
+
+
+
+<center>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/hahei beach.jpg" width="400" height="600"/>
+</center>
+
+
+```{r echo=FALSE, warning=FALSE, fig.height=4, fig.width=10, cache=TRUE , fig.cap="Coromandel map"}
+library(leaflet)
+library(knitr)
+
+m <- leaflet() %>% addTiles() %>% setView(175.702994, -36.827171, zoom = 15)
+m  #  -36.827171, 175.702994
+
+
+
+opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
