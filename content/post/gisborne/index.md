@@ -23,20 +23,26 @@ blogdown::html_page:
 <script src="{{< blogdown/postref >}}index_files/leaflet-binding/leaflet.js"></script>
 
 <link rel="stylesheet" href="styles.css" />
+<br></br>
 
+<div class="figure">
+
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-1" style="width:1344px;height:480px;"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]}],"setView":[[-38.672033,178.022445],12,[]]},"evals":[],"jsHooks":[]}</script>
+<p class="caption">
+<span id="fig:unnamed-chunk-1"></span>Figure 1: Gisborne map
+</p>
+
+</div>
+
+<p>
+<b>
 Use the map below to scroll through the area of Gisborne!
 The map is interactive.
+</p>
+
+</b>
 
 <center>
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/gisborne.jpg" width="400" height="600"/>
 </center>
-
-<div class="figure">
-
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-1" style="width:960px;height:384px;"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]}],"setView":[[-38.672033,178.022445],12,[]]},"evals":[],"jsHooks":[]}</script>
-<p class="caption">
-<span id="fig:unnamed-chunk-1"></span>Figure 1: Christchurch map
-</p>
-
-</div>
