@@ -15,7 +15,7 @@ blogdown::html_page:
 <br></br>
 
 
-```{r echo=FALSE, warning=FALSE, fig.height=4, fig.width=14, cache=TRUE , fig.cap="Coromandel map"}
+```{r echo=FALSE, warning=FALSE, fig.height=5, fig.width=14, cache=TRUE , fig.cap="Coromandel map"}
 library(leaflet)
 library(knitr)
 
