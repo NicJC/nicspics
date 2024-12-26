@@ -12,21 +12,18 @@ blogdown::html_page:
 ---
 
 <link rel="stylesheet" href="styles.css" />
+<br></br>
 
 
 
 
-Use the map below to scroll through the area of Picton!
-The map is interactive.
 
 
 
-<center>
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" width="400" height="600"/>
-</center>
 
 
-```{r echo=FALSE, warning=FALSE, fig.height=4, fig.width=10, cache=TRUE , fig.cap="Picton map"}
+
+```{r echo=FALSE, warning=FALSE, fig.height=5, fig.width=14, cache=TRUE , fig.cap="Picton map"}
 library(leaflet)
 library(knitr)
 
@@ -37,3 +34,11 @@ opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
+<p><b>
+Use the map below to scroll through the area of Picton!
+The map is interactive.
+</p></b>
+
+<center>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" width="400" height="600"/>
+</center>
