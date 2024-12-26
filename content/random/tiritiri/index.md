@@ -29,6 +29,13 @@ blogdown::html_page:
 <p>
 Tiritiri Matangi island is an island sanctuary with some pretty rare birds
 </p>
+<p>
+<b>
+Use the map below to scroll through the area of Tiritiri Mitangi Island!
+The map is interactive.
+</p>
+
+</b>
 
 <div class="figure">
 
@@ -40,12 +47,6 @@ Tiritiri Matangi island is an island sanctuary with some pretty rare birds
 
 </div>
 
-<p>
-
-<b>
-Use the map below to scroll through the area of Tiritiri Mitangi Island!
-The map is interactive.
-
 <center>
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="600" height="600"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="900" height="600"/>
 </center>

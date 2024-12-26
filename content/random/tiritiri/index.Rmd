@@ -20,6 +20,12 @@ Tiritiri Matangi island is an island sanctuary with some pretty rare birds
 </p>
 
 
+<p><b>
+Use the map below to scroll through the area of Tiritiri Mitangi Island!
+The map is interactive.
+</p></b>
+
+
 
 ```{r echo=FALSE, warning=FALSE, fig.height=5, fig.width=14, cache=TRUE , fig.cap="Christchurch map"}
 library(leaflet)
@@ -34,11 +40,9 @@ opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
-<p><b>
-Use the map below to scroll through the area of Tiritiri Mitangi Island!
-The map is interactive.
+
 
 
 <center>
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="600" height="600"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="900" height="600"/>
 </center>
