@@ -1,11 +1,12 @@
 ---
-title: About
+title: random
 author: ''
 date: '2024-12-10'
 slug: []
 categories: []
 tags:
-  - about
+  - random
+  - tiritiri
 ---
 
 <link rel="stylesheet" href="styles.css" />
@@ -14,7 +15,7 @@ tags:
 
 <p>
 
-Welcome to this Photo site, these are pictures from our holidays, and adventures.
+We went to Tiritiri Mitangi island!
 
 
 </p>

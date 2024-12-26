@@ -34,7 +34,7 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 <p><b>
 Use the map below to scroll through the area of Christchurch!
 The map is interactive.
-</p></b>
+
 
 <center>
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/chch.jpg" width="400" height="600"/>

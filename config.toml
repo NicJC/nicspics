@@ -23,8 +23,8 @@ menu:
   main:
     - name: Home
       url: /
-    - name: About
-      url: /About/
+    - name: random
+      url: /random/
     - name: coromandel
       url: /post/coromandel/
     - name: nelson
