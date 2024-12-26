@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us"><!DOCTYPE html>
+<html lang="en-us"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4770&amp;path=livereload" data-no-instant defer></script><!DOCTYPE html>
 
 <head>
     <meta charset="utf-8">
@@ -13,10 +13,75 @@ crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     
 <style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+}
 
+.navbar {
+  overflow: hidden;
+  background-color: #5F5959; 
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: #bbb4bf;
+  font-weight: bold;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: grey;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: #A03232;
+  font-weight: bold;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
 </style>
-
-<link rel="stylesheet" href="styles.css" />
 </head>
 
 
@@ -68,7 +133,7 @@ crossorigin="anonymous">
 
 </h4>
   <li>
-    <h4><i><u><a class="title" href="https://nicspics.netlify.app/post/tauranga/" >tauranga</u></i></a></h4>
+    <h4><i><u><a class="title" href="http://localhost:4770/post/tauranga/" >tauranga</u></i></a></h4>
     
 
 <i data-feather="calendar"></i>
@@ -86,7 +151,7 @@ crossorigin="anonymous">
 
 </h4>
   <li>
-    <h4><i><u><a class="title" href="https://nicspics.netlify.app/post/taupo/" >taupo</u></i></a></h4>
+    <h4><i><u><a class="title" href="http://localhost:4770/post/taupo/" >taupo</u></i></a></h4>
     
 
 <i data-feather="calendar"></i>
@@ -104,7 +169,7 @@ crossorigin="anonymous">
 
 </h4>
   <li>
-    <h4><i><u><a class="title" href="https://nicspics.netlify.app/post/picton/" >picton</u></i></a></h4>
+    <h4><i><u><a class="title" href="http://localhost:4770/post/picton/" >picton</u></i></a></h4>
     
 
 <i data-feather="calendar"></i>
@@ -122,7 +187,7 @@ crossorigin="anonymous">
 
 </h4>
   <li>
-    <h4><i><u><a class="title" href="https://nicspics.netlify.app/post/nelson/" >nelson</u></i></a></h4>
+    <h4><i><u><a class="title" href="http://localhost:4770/post/nelson/" >nelson</u></i></a></h4>
     
 
 <i data-feather="calendar"></i>
@@ -140,7 +205,7 @@ crossorigin="anonymous">
 
 </h4>
   <li>
-    <h4><i><u><a class="title" href="https://nicspics.netlify.app/post/gisborne/" >gisborne</u></i></a></h4>
+    <h4><i><u><a class="title" href="http://localhost:4770/post/gisborne/" >gisborne</u></i></a></h4>
     
 
 <i data-feather="calendar"></i>
@@ -158,7 +223,7 @@ crossorigin="anonymous">
 
 </h4>
   <li>
-    <h4><i><u><a class="title" href="https://nicspics.netlify.app/post/christchurch/" >christchurch</u></i></a></h4>
+    <h4><i><u><a class="title" href="http://localhost:4770/post/christchurch/" >christchurch</u></i></a></h4>
     
 
 <i data-feather="calendar"></i>
@@ -176,7 +241,7 @@ crossorigin="anonymous">
 
 </h4>
   <li>
-    <h4><i><u><a class="title" href="https://nicspics.netlify.app/post/coromandel/" >coromandel</u></i></a></h4>
+    <h4><i><u><a class="title" href="http://localhost:4770/post/coromandel/" >coromandel</u></i></a></h4>
     
 
 <i data-feather="calendar"></i>

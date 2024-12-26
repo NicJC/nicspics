@@ -14,17 +14,6 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 
 
-
-
-Use the map below to scroll through the area of Coromandel!
-The map is interactive.
-
-
-<center>
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/hahei beach.jpg" width="400" height="600"/>
-</center>
-
-
 ```{r echo=FALSE, warning=FALSE, fig.height=4, fig.width=10, cache=TRUE , fig.cap="Coromandel map"}
 library(leaflet)
 library(knitr)
@@ -37,3 +26,12 @@ m  #  -36.827171, 175.702994
 opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
+
+<p><b>
+Use the map above to scroll through the area of Coromandel!
+The map is interactive.
+</p></b>
+
+<center>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/hahei beach.jpg" width="400" height="600"/>
+</center>
