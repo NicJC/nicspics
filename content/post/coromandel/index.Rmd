@@ -12,6 +12,7 @@ blogdown::html_page:
 ---
 
 <link rel="stylesheet" href="styles.css" />
+<br></br>
 
 
 ```{r echo=FALSE, warning=FALSE, fig.height=4, fig.width=10, cache=TRUE , fig.cap="Coromandel map"}
