@@ -26,10 +26,14 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
+<p>
+Tiritiri Matangi island is an island sanctuary with some pretty rare birds
+</p>
+
 <div class="figure">
 
 <div class="leaflet html-widget html-fill-item" id="htmlwidget-1" style="width:1344px;height:480px;"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]}],"setView":[[-43.527666,172.700134],12,[]]},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]}],"setView":[[-36.60491,174.88827],15,[]]},"evals":[],"jsHooks":[]}</script>
 <p class="caption">
 <span id="fig:unnamed-chunk-1"></span>Figure 1: Christchurch map
 </p>
@@ -43,5 +47,5 @@ Use the map below to scroll through the area of Tiritiri Mitangi Island!
 The map is interactive.
 
 <center>
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="400" height="600"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="600" height="600"/>
 </center>

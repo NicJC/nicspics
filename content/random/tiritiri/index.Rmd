@@ -15,7 +15,9 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-
+<p>
+Tiritiri Matangi island is an island sanctuary with some pretty rare birds
+</p>
 
 
 
@@ -23,8 +25,8 @@ blogdown::html_page:
 library(leaflet)
 library(knitr)
 
-m <- leaflet() %>% addTiles() %>% setView(172.700134, -43.527666, zoom = 12)
-m  #  -43.527666, 172.700134
+m <- leaflet() %>% addTiles() %>% setView(174.888270, -36.604910, zoom = 15)
+m  #  -36.604910, 174.888270
 
 
 
@@ -38,5 +40,5 @@ The map is interactive.
 
 
 <center>
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="400" height="600"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="600" height="600"/>
 </center>
