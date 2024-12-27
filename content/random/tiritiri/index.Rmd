@@ -89,6 +89,11 @@ Some of the awesome photos we took here! If you download any of these photos, th
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_115916.jpg" class="img-responsive" alt="magic place!" width="900" height="900" />
 
 
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_121559.jpg" class="img-responsive" alt="good life" width="900" height="900" />
+
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_114357.jpg" class="img-responsive" alt="great walks" width="900" height="900" />
+
 
 
 
