@@ -39,8 +39,7 @@ The map is interactive.
 
 <style>
 &#10;.tiripics{
-&#10;border-radius: 8px;
-border: 1.0px solid black;
+&#10;
 display: flex;
 flex-direction: column;
 justify-content: space-between;
@@ -57,25 +56,21 @@ justify-content: space-between;
 
 </div>
 
-<center>
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="900" height="600"/>
-</center>
 
 <div class="tiripics">
 
-<figure>
-<img src="images/IMG_20171228_143244_1.jpg" width="400" height="800" alt="Lighthouse" />
-<figcaption aria-hidden="true">Lighthouse</figcaption>
-</figure>
-
-<figure>
-<img src="images/IMG_20171228_132400_1.jpg" alt="grassy slope" />
-<figcaption aria-hidden="true">grassy slope</figcaption>
-</figure>
-
-<figure>
-<img src="images/IMG_20171228_124950_1.jpg" alt="Cormorants!" />
-<figcaption aria-hidden="true">Cormorants!</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" width="400" height="800"/>
+<figcaption>
+Lighthouse
+</figcaption>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" width="900" height="900"/>
+<figcaption>
+Grassy slope
+</figcaption>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" width="900" height="900"/>
+<figcaption>
+Cormorants!e
+</figcaption>
 
 </div>
