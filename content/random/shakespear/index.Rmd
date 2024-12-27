@@ -1,0 +1,79 @@
+---
+title: shakespear
+author: ''
+date: '2024-12-24'
+tags:
+  - shakespear
+  - random
+draft: no
+blogdown::html_page:
+  css: /css/style.css
+  code_folding: hide
+  fig_caption: yes
+---
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<br></br>
+
+<p>
+Shakespear Regional Park is another national park with many walks and bushes !
+</p>
+
+
+<p><b>
+Use the map below to scroll through the area of Shakespear Regional Park!
+The map is interactive.
+</p></b>
+
+<style>
+
+.shakespics{
+
+
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+
+</style>
+
+
+
+```{r echo=FALSE, warning=FALSE, fig.height=5, fig.width=14, cache=TRUE , fig.cap="Shakespear Regional Park map"}
+library(leaflet)
+library(knitr)
+
+m <- leaflet() %>% addTiles() %>% setView(174.824302, -36.611318, zoom = 15)
+m  #  -36.611318, 174.824302
+
+
+opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+<p>
+Some of the awesome photos we took here! If you download any of these photos, they'll download the original photo taken.
+</p>
+
+
+
+
+<div class="shakespics">
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_132559.jpg" class="img-responsive" alt="Overview" width="900" height="600"/>
+
+
+
+
+
+
+
+
+
+
+</div>
