@@ -37,6 +37,16 @@ The map is interactive.
 
 </b>
 
+<style>
+&#10;.tiripics{
+&#10;border-radius: 8px;
+border: 1.0px solid black;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+&#10;}
+&#10;</style>
+
 <div class="figure">
 
 <div class="leaflet html-widget html-fill-item" id="htmlwidget-1" style="width:1344px;height:480px;"></div>
@@ -51,12 +61,21 @@ The map is interactive.
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="900" height="600"/>
 </center>
 
+<div class="tiripics">
+
 <figure>
 <img src="images/IMG_20171228_143244_1.jpg" width="400" height="800" alt="Lighthouse" />
 <figcaption aria-hidden="true">Lighthouse</figcaption>
 </figure>
 
 <figure>
-<img src="images/IMG_20171228_124950_1.jpg" width="600" height="600" alt="Coromorants!" />
-<figcaption aria-hidden="true">Coromorants!</figcaption>
+<img src="images/IMG_20171228_132400_1.jpg" alt="grassy slope" />
+<figcaption aria-hidden="true">grassy slope</figcaption>
 </figure>
+
+<figure>
+<img src="images/IMG_20171228_124950_1.jpg" alt="Cormorants!" />
+<figcaption aria-hidden="true">Cormorants!</figcaption>
+</figure>
+
+</div>
