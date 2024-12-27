@@ -48,3 +48,5 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 </center>
 
 ![Lighthouse](images/IMG_20171228_143244_1.jpg){width=400px height=800px}
+
+![Coromorants!](images/IMG_20171228_124950_1.jpg){width=600px height=600px}

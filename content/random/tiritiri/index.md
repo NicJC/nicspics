@@ -55,3 +55,8 @@ The map is interactive.
 <img src="images/IMG_20171228_143244_1.jpg" width="400" height="800" alt="Lighthouse" />
 <figcaption aria-hidden="true">Lighthouse</figcaption>
 </figure>
+
+<figure>
+<img src="images/IMG_20171228_124950_1.jpg" width="600" height="600" alt="Coromorants!" />
+<figcaption aria-hidden="true">Coromorants!</figcaption>
+</figure>
