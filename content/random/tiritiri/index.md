@@ -56,15 +56,28 @@ justify-content: space-between;
 
 </div>
 
+<p>
+Some of the awesome photos we took here!
+</p>
+
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" width="900" height="600"/>
 
 <div class="tiripics">
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" width="400" height="800" alt="Lighthouse"/>
+<figure>
+<img src="images/IMG_20171228_124950_1.jpg" width="900" height="900" alt="Cormorants!" />
+<figcaption aria-hidden="true">Cormorants!</figcaption>
+</figure>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" width="900" height="900" alt="Grassy slope"/>
+<figure>
+<img src="images/IMG_20171228_132400_1.jpg" width="900" height="900" alt="Grassy slope" />
+<figcaption aria-hidden="true">Grassy slope</figcaption>
+</figure>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" width="900" height="900" alt="Cormorants!"/>
+<figure>
+<img src="images/IMG_20171228_143244_1.jpg" width="400" height="800" alt="Lighthouse" />
+<figcaption aria-hidden="true">Lighthouse</figcaption>
+</figure>
 
 <figure>
 <img src="images/IMG_20171228_150853.jpg" width="800" height="700" alt="rugged coast" />

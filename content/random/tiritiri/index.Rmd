@@ -53,7 +53,9 @@ opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
-
+<p>
+Some of the awesome photos we took here!
+</p>
 
 
 
@@ -63,11 +65,18 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 <div class="tiripics">
 
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" width="400" height="800" alt="Lighthouse"/> 
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" width="900" height="900" alt="Grassy slope"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" width="900" height="900" alt="Cormorants!"/>
+
+
+![Cormorants!](images/IMG_20171228_124950_1.jpg){width=900px height=900px}
+
+
+![Grassy slope](images/IMG_20171228_132400_1.jpg){width=900px height=900px}
+
+
+![Lighthouse](images/IMG_20171228_143244_1.jpg){width=400px height=800px}
+
 
 ![rugged coast](images/IMG_20171228_150853.jpg){width=800px height=700px}
 
