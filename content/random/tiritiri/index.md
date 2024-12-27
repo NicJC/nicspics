@@ -60,12 +60,10 @@ justify-content: space-between;
 
 <div class="tiripics">
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" width="400" height="800" Alternative text:Lighthouse/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" width="400" height="800" alt="Lighthouse"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" width="900" height="900" Alternative text:Grassy slope/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" width="900" height="900" alt="Grassy slope"/>
 
-\<img style=“float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;” src=“images/IMG_20171228_124950_1.jpg” width=“900” height=“900” Alternative text:Cormorants!/\>
-
-![ewrger](images/IMG_20171228_132400_1.jpg)<img src="images/IMG_20171228_124950_1.jpg" width="89" height="25" />
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" width="900" height="900" alt="Cormorants!"/>
 
 </div>
