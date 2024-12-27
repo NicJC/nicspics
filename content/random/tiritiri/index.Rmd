@@ -63,13 +63,13 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 <div class="tiripics">
 
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" width="400" height="800"/><figcaption>Lighthouse</figcaption>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" width="400" height="800" Alternative text:Lighthouse/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" width="900" height="900"/><figcaption>Grassy slope</figcaption>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" width="900" height="900" Alternative text:Grassy slope/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" width="900" height="900"/><figcaption>Cormorants!e</figcaption>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" width="900" height="900" Alternative text:Cormorants!/>
 
-
+![ewrger](images/IMG_20171228_132400_1.jpg)![](images/IMG_20171228_124950_1.jpg){width=89px height=25px}
 
 
 
