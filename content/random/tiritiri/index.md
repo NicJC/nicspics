@@ -22,8 +22,12 @@ blogdown::html_page:
 <script src="{{< blogdown/postref >}}index_files/Proj4Leaflet/proj4leaflet.js"></script>
 <link href="{{< blogdown/postref >}}index_files/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/leaflet-binding/leaflet.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-<link rel="stylesheet" href="styles.css" />
 <br></br>
 
 <p>
@@ -64,24 +68,12 @@ Some of the awesome photos we took here!
 
 <div class="tiripics">
 
-<figure>
-<img src="images/IMG_20171228_124950_1.jpg" width="900" height="900" alt="Cormorants!" />
-<figcaption aria-hidden="true">Cormorants!</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" class="img-rounded" alt="Lighthouse" width="400" height="800" />
 
-<figure>
-<img src="images/IMG_20171228_132400_1.jpg" width="900" height="900" alt="Grassy slope" />
-<figcaption aria-hidden="true">Grassy slope</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" class="img-rounded" alt="Grassy slope" width="900" height="900" />
 
-<figure>
-<img src="images/IMG_20171228_143244_1.jpg" width="400" height="800" alt="Lighthouse" />
-<figcaption aria-hidden="true">Lighthouse</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" class="img-rounded" alt="Cormorants!" width="900" height="900" />
 
-<figure>
-<img src="images/IMG_20171228_150853.jpg" width="800" height="700" alt="rugged coast" />
-<figcaption aria-hidden="true">rugged coast</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150853.jpg" class="img-rounded" alt="rugged coast" width="800" height="700" />
 
 </div>
