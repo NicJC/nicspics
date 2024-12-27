@@ -78,6 +78,8 @@ Some of the awesome photos we took here!
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_104713.jpg" class="img-responsive" alt="Windy day" width="800" height="800" />
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_121137.jpg" class="img-responsive" alt="hidden" width="800" height="800" />
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_121137.jpg" class="img-responsive" alt="hidden" width="700" height="800" />
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_120943.jpg" class="img-responsive" alt="trees" width="900" height="800" />
 
 </div>
