@@ -45,7 +45,7 @@ The map is interactive.
 &#10;.tiripics{
 &#10;
 display: flex;
-flex-direction: row;
+flex-direction: column;
 justify-content: space-between;
 &#10;}
 &#10;</style>
@@ -66,16 +66,18 @@ Some of the awesome photos we took here!
 
 <div class="tiripics">
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" class="img-rounded" alt="Wharf" width="900" height="600"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150910.jpg" class="img-responsive" alt="Wharf" width="900" height="600"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" class="img-rounded" alt="Lighthouse" width="400" height="800" />
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" class="img-responsive" alt="Lighthouse" width="400" height="800" />
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" class="img-rounded" alt="Grassy slope" width="900" height="900" />
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" class="img-responsive" alt="Grassy slope" width="900" height="900" />
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" class="img-rounded" alt="Cormorants!" width="900" height="900" />
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" class="img-responsive" alt="Cormorants!" width="900" height="900" />
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150853.jpg" class="img-rounded" alt="rugged coast" width="800" height="700" />
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_150853.jpg" class="img-responsive" alt="rugged coast" width="800" height="700" />
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_104713.jpg" class="img-rounded" alt="Windy day" width="800" height="800" />
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_104713.jpg" class="img-responsive" alt="Windy day" width="800" height="800" />
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_121137.jpg" class="img-responsive" alt="hidden" width="800" height="800" />
 
 </div>
