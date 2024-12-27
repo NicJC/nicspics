@@ -61,7 +61,7 @@ justify-content: space-between;
 </div>
 
 <p>
-Some of the awesome photos we took here!
+Some of the awesome photos we took here! If you download any of these photos, they’ll download the original photo taken.
 </p>
 
 <div class="tiripics">
@@ -83,5 +83,7 @@ Some of the awesome photos we took here!
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_120943.jpg" class="img-responsive" alt="trees" width="900" height="800" />
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_114425.jpg" class="img-responsive" alt="wide as" width="1900" height="900" />
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_115916.jpg" class="img-responsive" alt="magic place!" width="900" height="900" />
 
 </div>
