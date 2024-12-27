@@ -66,4 +66,9 @@ justify-content: space-between;
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" width="900" height="900" alt="Cormorants!"/>
 
+<figure>
+<img src="images/IMG_20171228_150853.jpg" width="800" height="700" alt="rugged coast" />
+<figcaption aria-hidden="true">rugged coast</figcaption>
+</figure>
+
 </div>

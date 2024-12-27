@@ -69,7 +69,7 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" width="900" height="900" alt="Cormorants!"/>
 
-
+![rugged coast](images/IMG_20171228_150853.jpg){width=800px height=700px}
 
 
 
