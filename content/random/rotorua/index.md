@@ -93,6 +93,6 @@ Further down there are 2 takahe with a new chick. These birds are close to extin
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_102419.jpg" class="img-responsive" alt="back to the ferry" width="700" height="950"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_115953.jpg" class="img-responsive" alt="Wide view" width="2100" height="900"/>
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_115953.jpg" class="img-responsive" alt="Wide view" width="2100" height="900"/>
 
 </div>
