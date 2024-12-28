@@ -64,7 +64,7 @@ justify-content: space-between;
 This is a pretty special place, another island sanctuary for birds. We took a quick ferry ride from downtown Auckland!
 </p>
 <p>
-Further down there are 2 takahe with a new chick. These birds are close to extinct. There is less than 700 left of these birds.
+Further down the page, there are 2 takahe with a new chick. These birds are close to being extinct. There are about 500 to 600 of these birds left!
 </p>
 
 <div class="rotoruaislandpics">
