@@ -40,6 +40,10 @@ justify-content: space-between;
 
 }
 
+.tag{
+bottom:0.5px;
+}
+
 </style>
 
 
@@ -107,6 +111,8 @@ Further down the page, there are 2 takahe with a new chick. These birds are clos
 </div>
 
 
-
+<div id="tag">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
