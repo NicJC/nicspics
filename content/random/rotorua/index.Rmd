@@ -68,6 +68,11 @@ This is a pretty special place, another island sanctuary for birds. We took a qu
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_132636_1.jpg" class="img-responsive" alt="beach view" width="900" height="900"/>
 
 
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_115953.jpg" class="img-responsive" alt="Wide view" width="2100" height="900"/>
+
+
+
+
 
 
 </div>
