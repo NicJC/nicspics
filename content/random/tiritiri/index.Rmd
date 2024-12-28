@@ -39,11 +39,6 @@ justify-content: space-between;
 
 }
 
-.tgc{
-position: relative;
-bottom:0 px auto;
-}
-
 </style>
 
 
@@ -105,10 +100,16 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 </div>
 
+<div id="tag-cloud" style="padding: 15px 15px; text-align: center; bottom: auto;color:  rgb(128, 159, 191)">
 
-<div id="tgc">
+<script>
+$(document).ready(function(){
+  $(".nav-tabs a").click(function(){
+    $(this).tab('show');
+  });
+});
 
+</script>
 
-[back to tag cloud](https://nicspics.netlify.app/tags/random/)
 
 </div>

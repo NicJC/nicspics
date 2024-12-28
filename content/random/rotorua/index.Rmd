@@ -33,16 +33,10 @@ The map is interactive.
 
 .rotoruaislandpics{
 
-
 display: flex;
 flex-direction: column;
 justify-content: space-between;
 
-}
-
-.tgc{
-position: relative;
-bottom:0 px auto;
 }
 
 </style>
@@ -112,8 +106,16 @@ Further down the page, there are 2 takahe with a new chick. These birds are clos
 </div>
 
 
-<div id="tgc">
+<div id="tag-cloud" style="padding: 15px 15px; text-align: center; bottom: auto;color:  rgb(128, 159, 191)">
 
-[back to tag cloud](https://nicspics.netlify.app/tags/random/)
+<script>
+$(document).ready(function(){
+  $(".nav-tabs a").click(function(){
+    $(this).tab('show');
+  });
+});
+
+</script>
+
 
 </div>
