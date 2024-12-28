@@ -67,8 +67,6 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_132559.jpg" class="img-responsive" alt="Overview" width="900" height="900"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_144758.jpg" class="img-responsive" alt="some hidden creek" width=800" height="800"/>
-
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_145152.jpg" class="img-responsive" alt="shaded walk" width="900" height="800"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20190323_153335.jpg" class="img-responsive" alt="sheep" width="800" height="800"/>
@@ -119,15 +117,12 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111201.jpg" class="img-responsive" alt="left beach" width="1000" height="900"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_110902.jpg" class="img-responsive" alt="peacock?" width="900" height=900"/>
-
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_120348.jpg" class="img-responsive" alt="long range" width="900" height="900"/>
 
 
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_110902.jpg" class="img-responsive" alt="peacock" width="900" height="900"/>
 
-
-
-
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_144758.jpg" class="img-responsive" alt="some hidden creek" width="900" height="900"/>
 
 
 </div>
