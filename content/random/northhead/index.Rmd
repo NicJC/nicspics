@@ -41,8 +41,9 @@ justify-content: space-between;
 
 }
 
-.tag{
-bottom:0.5px;
+.tgc{
+position: relative;
+bottom:0 px auto;
 }
 
 </style>
@@ -80,7 +81,7 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 
 
-<div id="tag">
+<div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
 

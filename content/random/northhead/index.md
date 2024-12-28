@@ -49,7 +49,7 @@ display: flex;
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;.tag{
+&#10;.tgc{
 bottom:0.5px;
 }
 &#10;</style>
@@ -74,7 +74,7 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 </div>
 
-<div id="tag">
+<div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
 

@@ -48,7 +48,7 @@ display: flex;
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;.tag{
+&#10;.tgc{
 bottom:0.5px;
 }
 &#10;</style>
@@ -100,7 +100,7 @@ Further down the page, there are 2 takahe with a new chick. These birds are clos
 
 </div>
 
-<div id="tag">
+<div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
 

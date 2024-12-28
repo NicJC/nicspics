@@ -9,6 +9,27 @@
     <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:5541/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Christchurch</title>
+      <link>http://localhost:5541/tags/christchurch/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5541/tags/christchurch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gisborne</title>
+      <link>http://localhost:5541/tags/gisborne/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5541/tags/gisborne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nelson</title>
+      <link>http://localhost:5541/tags/nelson/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5541/tags/nelson/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>North Head</title>
       <link>http://localhost:5541/tags/north-head/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
@@ -16,10 +37,66 @@
       <description></description>
     </item>
     <item>
+      <title>Picton</title>
+      <link>http://localhost:5541/tags/picton/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5541/tags/picton/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Random</title>
       <link>http://localhost:5541/tags/random/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:5541/tags/random/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rotorua</title>
+      <link>http://localhost:5541/tags/rotorua/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5541/tags/rotorua/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shakespeare</title>
+      <link>http://localhost:5541/tags/shakespeare/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5541/tags/shakespeare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taupo</title>
+      <link>http://localhost:5541/tags/taupo/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5541/tags/taupo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tauranga</title>
+      <link>http://localhost:5541/tags/tauranga/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5541/tags/tauranga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tiritiri</title>
+      <link>http://localhost:5541/tags/tiritiri/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5541/tags/tiritiri/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coromandel</title>
+      <link>http://localhost:5541/tags/coromandel/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5541/tags/coromandel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>http://localhost:5541/tags/home/</link>
+      <pubDate>Sun, 08 Dec 2024 11:20:19 +0000</pubDate>
+      <guid>http://localhost:5541/tags/home/</guid>
       <description></description>
     </item>
   </channel>
