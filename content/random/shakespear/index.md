@@ -72,7 +72,7 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20190323_153335.jpg" class="img-responsive" alt="sheep" width="800" height="800"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_141529_1.jpg" class="img-responsive" alt="sheep everywhere" width="900" height="900"/>
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_141529_1.jpg" class="img-responsive" alt="sheep everywhere" width="900" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_140711.jpg" class="img-responsive" alt="which way" width="800" height="800"/>
 
@@ -88,7 +88,7 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_133822.jpg" class="img-responsive" alt="what up" width="900" height="900"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_132735_2.jpg" class="img-responsive" alt="outlook" width="1100" height="900"/>
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_132735_2.jpg" class="img-responsive" alt="outlook" width="1100" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_131914_2.jpg" class="img-responsive" alt="walkway" width="900" height="900"/>
 
@@ -100,7 +100,7 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_125536.jpg" class="img-responsive" alt="different view" width="900" height="900"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_122908.jpg" class="img-responsive" alt="from rocks" width="900" height="900"/>
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_122908.jpg" class="img-responsive" alt="from rocks" width="900" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_122024.jpg" class="img-responsive" alt="tiritiri in the background" width="900" height="900"/>
 
@@ -112,7 +112,7 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_112532.jpg" class="img-responsive" alt="beach wood" width="900" height="900"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111216.jpg" class="img-responsive" alt="right beach" width="1000" height="900"/>
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111216.jpg" class="img-responsive" alt="right beach" width="1000" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111201.jpg" class="img-responsive" alt="left beach" width="1000" height="900"/>
 
@@ -122,6 +122,8 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_144758.jpg" class="img-responsive" alt="some hidden creek" width="900" height="900"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111241.jpg" class="img-responsive" alt="Jo on the left" width="1900" height="1000"/>
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111241.jpg" class="img-responsive" alt="Jo on the left" width="1900" height="1000"/>
 
 </div>
+
+[back to tag cloud](https://nicspics.netlify.app/tags/random/)
