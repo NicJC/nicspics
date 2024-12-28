@@ -66,146 +66,62 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <div class="shakespics">
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_132559.jpg" class="img-responsive" alt="Overview" width="900" height="600"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_132559.jpg" class="img-responsive" alt="Overview" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_144758.jpg" alt="some hidden creek" />
-<figcaption aria-hidden="true">some hidden creek</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_144758.jpg" class="img-responsive" alt="some hidden creek" width=800" height="800"/>
 
-<figure>
-<img src="images/IMG_20170211_145152.jpg" alt="shaded walk" />
-<figcaption aria-hidden="true">shaded walk</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_145152.jpg" class="img-responsive" alt="shaded walk" width="900" height="800"/>
 
-<figure>
-<img src="images/IMG_20190323_153335.jpg" alt="sheep" />
-<figcaption aria-hidden="true">sheep</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20190323_153335.jpg" class="img-responsive" alt="sheep" width="800" height="800"/>
 
-<figure>
-<img src="images/IMG_20170211_141529_1.jpg" alt="sheep everywhere" />
-<figcaption aria-hidden="true">sheep everywhere</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_141529_1.jpg" class="img-responsive" alt="sheep everywhere" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_140711.jpg" alt="which way" />
-<figcaption aria-hidden="true">which way</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_140711.jpg" class="img-responsive" alt="which way" width="800" height="800"/>
 
-<figure>
-<img src="images/IMG_20170211_135638.jpg" alt="blank field" />
-<figcaption aria-hidden="true">blank field</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_135638.jpg" class="img-responsive" alt="blank field" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_134348_1.jpg" alt="shaded" />
-<figcaption aria-hidden="true">shaded</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_134348_1.jpg" class="img-responsive" alt="shaded" width="700" height="800"/>
 
-<figure>
-<img src="images/IMG_20170211_134201_2.jpg" alt="roots" />
-<figcaption aria-hidden="true">roots</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_134201_2.jpg" class="img-responsive" alt="roots" width="900" height="800"/>
 
-<figure>
-<img src="images/IMG_20170211_134043.jpg" alt="streaks" />
-<figcaption aria-hidden="true">streaks</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_134043.jpg" class="img-responsive" alt="streaks" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_133545_2.jpg" alt="bright day" />
-<figcaption aria-hidden="true">bright day</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_133545_2.jpg" class="img-responsive" alt="bright day" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_133822.jpg" alt="what up?" />
-<figcaption aria-hidden="true">what up?</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_133822.jpg" class="img-responsive" alt="what up" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_132735_2.jpg" alt="outlook" />
-<figcaption aria-hidden="true">outlook</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_132735_2.jpg" class="img-responsive" alt="outlook" width="1100" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_131914_2.jpg" alt="walkway" />
-<figcaption aria-hidden="true">walkway</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_131914_2.jpg" class="img-responsive" alt="walkway" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_130206.jpg" alt="pink beach" />
-<figcaption aria-hidden="true">pink beach</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_130206.jpg" class="img-responsive" alt="pink beach" width="1100" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_125657_2.jpg" alt="rocks" />
-<figcaption aria-hidden="true">rocks</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_125657_2.jpg" class="img-responsive" alt="rocks" width="1000" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_125632.jpg" alt="awesome" />
-<figcaption aria-hidden="true">awesome</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_125632.jpg" class="img-responsive" alt="awesome" width="1000" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_125536.jpg" alt="different view" />
-<figcaption aria-hidden="true">different view</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_125536.jpg" class="img-responsive" alt="different view" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_122908.jpg" alt="from rocks" />
-<figcaption aria-hidden="true">from rocks</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_122908.jpg" class="img-responsive" alt="from rocks" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_122024.jpg" alt="tiritiri in the background" />
-<figcaption aria-hidden="true">tiritiri in the background</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_122024.jpg" class="img-responsive" alt="tiritiri in the background" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_121750.jpg" alt="fenced" />
-<figcaption aria-hidden="true">fenced</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_121750.jpg" class="img-responsive" alt="fenced" width="900" height="800"/>
 
-<figure>
-<img src="images/IMG_20170211_120348.jpg" alt="long range" />
-<figcaption aria-hidden="true">long range</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_115813_2.jpg" class="img-responsive" alt="pasture view" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_115813_2.jpg" alt="pasture view" />
-<figcaption aria-hidden="true">pasture view</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_114854_1.jpg" class="img-responsive" alt="side view" width="800" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_114854_1.jpg" alt="side view" />
-<figcaption aria-hidden="true">side view</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_112532.jpg" class="img-responsive" alt="beach wood" width="900" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_112532.jpg" alt="beach wood" />
-<figcaption aria-hidden="true">beach wood</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111241.jpg" class="img-responsive" alt="Jo on the left" width="1100" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_111241.jpg" alt="Jo on the left" />
-<figcaption aria-hidden="true">Jo on the left</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111216.jpg" class="img-responsive" alt="right beach" width="1000" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_111216.jpg" alt="right beach" />
-<figcaption aria-hidden="true">right beach</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111201.jpg" class="img-responsive" alt="left beach" width="1000" height="900"/>
 
-<figure>
-<img src="images/IMG_20170211_111201.jpg" alt="left beach" />
-<figcaption aria-hidden="true">left beach</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_110902.jpg" class="img-responsive" alt="peacock?" width="900" height=900"/>
 
-<figure>
-<img src="images/IMG_20170211_110902.jpg" alt="peacock?" />
-<figcaption aria-hidden="true">peacock?</figcaption>
-</figure>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_120348.jpg" class="img-responsive" alt="long range" width="900" height="900"/>
 
 </div>
