@@ -91,3 +91,5 @@ Some of the awesome photos we took here! If you download any of these photos, th
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_114357.jpg" class="img-responsive" alt="great walks" width="900" height="900" />
 
 </div>
+
+[back to tag cloud](https://nicspics.netlify.app/tags/random/)
