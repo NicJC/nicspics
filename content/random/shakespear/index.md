@@ -112,8 +112,6 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_112532.jpg" class="img-responsive" alt="beach wood" width="900" height="900"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111241.jpg" class="img-responsive" alt="Jo on the left" width="1100" height="900"/>
-
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111216.jpg" class="img-responsive" alt="right beach" width="1000" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111201.jpg" class="img-responsive" alt="left beach" width="1000" height="900"/>
@@ -123,5 +121,7 @@ Some of the awesome photos we took here! If you download any of these photos, th
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_110902.jpg" class="img-responsive" alt="peacock" width="900" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_144758.jpg" class="img-responsive" alt="some hidden creek" width="900" height="900"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111241.jpg" class="img-responsive" alt="Jo on the left" width="1900" height="1000"/>
 
 </div>
