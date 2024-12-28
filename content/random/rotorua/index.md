@@ -1,15 +1,15 @@
 ---
-title: rotorua
+title: "rotorua"
 author: ''
-date: '2024-12-24'
+date: "2024-12-24"
 tags:
-  - rotorua
-  - random
-draft: no
+- rotorua
+- random
+draft: false
 blogdown::html_page:
   css: /css/style.css
   code_folding: hide
-  fig_caption: yes
+  fig_caption: true
 ---
 
 <link href="{{< blogdown/postref >}}index_files/htmltools-fill/fill.css" rel="stylesheet" />

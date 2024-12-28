@@ -1,9 +1,9 @@
 ---
-title: shakespear
+title: shakespeare
 author: ''
 date: '2024-12-24'
 tags:
-  - shakespear
+  - shakespeare
   - random
 draft: no
 blogdown::html_page:
@@ -12,56 +12,59 @@ blogdown::html_page:
   fig_caption: yes
 ---
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link href="{{< blogdown/postref >}}index_files/htmltools-fill/fill.css" rel="stylesheet" />
+<script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>
+<script src="{{< blogdown/postref >}}index_files/jquery/jquery-3.6.0.min.js"></script>
+<link href="{{< blogdown/postref >}}index_files/leaflet/leaflet.css" rel="stylesheet" />
+<script src="{{< blogdown/postref >}}index_files/leaflet/leaflet.js"></script>
+<link href="{{< blogdown/postref >}}index_files/leafletfix/leafletfix.css" rel="stylesheet" />
+<script src="{{< blogdown/postref >}}index_files/proj4/proj4.min.js"></script>
+<script src="{{< blogdown/postref >}}index_files/Proj4Leaflet/proj4leaflet.js"></script>
+<link href="{{< blogdown/postref >}}index_files/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
+<script src="{{< blogdown/postref >}}index_files/leaflet-binding/leaflet.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
 <br></br>
 
 <p>
-Shakespear Regional Park is another national park with many walks and bushes ! Not far from Auckland CBD!
+Shakespeare Regional Park is another national park with many walks and bushes ! Not far from Auckland CBD!
+</p>
+<p>
+<b>
+Use the map below to scroll through the area of Shakespeare Regional Park!
+The map is interactive.
 </p>
 
-
-<p><b>
-Use the map below to scroll through the area of Shakespear Regional Park!
-The map is interactive.
-</p></b>
+</b>
 
 <style>
-
-.shakespics{
-
-
+&#10;.shakespics{
 display: flex;
 flex-direction: column;
 justify-content: space-between;
-
+&#10;}
+&#10;.tag{
+bottom:0.5px;
 }
+&#10;</style>
 
-</style>
+<div class="figure">
 
-
-
-```{r echo=FALSE, warning=FALSE, fig.height=5, fig.width=14, cache=TRUE , fig.cap="Shakespear Regional Park map"}
-library(leaflet)
-library(knitr)
-
-m <- leaflet() %>% addTiles() %>% setView(174.824302, -36.611318, zoom = 15)
-m  #  -36.611318, 174.824302
-
-
-opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
-knitr::opts_chunk$set(warning = FALSE, message = FALSE)
-```
-
-<p>
-Some of the awesome photos we took here! If you download any of these photos, they'll download the original photo taken.
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-1" style="width:1344px;height:480px;"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]}],"setView":[[-36.611318,174.824302],15,[]]},"evals":[],"jsHooks":[]}</script>
+<p class="caption">
+<span id="fig:unnamed-chunk-1"></span>Figure 1: Shakespeare Regional Park map
 </p>
 
+</div>
 
-
+<p>
+Some of the awesome photos we took here! If you download any of these photos, they’ll download the original photo taken.
+</p>
 
 <div class="shakespics">
 
@@ -111,8 +114,6 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_112532.jpg" class="img-responsive" alt="beach wood" width="900" height="900"/>
 
-
-
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111216.jpg" class="img-responsive" alt="right beach" width="1000" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111201.jpg" class="img-responsive" alt="left beach" width="1000" height="900"/>
@@ -125,12 +126,10 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170211_111241.jpg" class="img-responsive" alt="Jo on the left" width="1900" height="1000"/>
 
-
 </div>
 
-
-
-
-
+<div id="tag">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>

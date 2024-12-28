@@ -2,84 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nicspics.netlify.app/post/christchurch/</loc>
+    <loc>http://localhost:5541/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nicspics.netlify.app/tags/christchurch/</loc>
+    <loc>http://localhost:5541/tags/north-head/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nicspics.netlify.app/post/gisborne/</loc>
+    <loc>http://localhost:5541/random/northhead/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nicspics.netlify.app/tags/gisborne/</loc>
+    <loc>http://localhost:5541/tags/random/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nicspics.netlify.app/post/nelson/</loc>
+    <loc>http://localhost:5541/random/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nicspics.netlify.app/tags/nelson/</loc>
+    <loc>http://localhost:5541/tags/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nicspics.netlify.app/post/picton/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/tags/picton/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/post/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/tags/random/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/random/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/random/rotorua/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/tags/rotorua/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/random/shakespear/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/tags/shakespear/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/tags/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/post/taupo/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/tags/taupo/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/post/tauranga/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/tags/tauranga/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/random/tiritiri/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/tags/tiritiri/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/post/coromandel/</loc>
-    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/tags/coromandel/</loc>
-    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/</loc>
-    <lastmod>2024-12-08T11:20:19+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/tags/home/</loc>
-    <lastmod>2024-12-08T11:20:19+00:00</lastmod>
-  </url><url>
-    <loc>https://nicspics.netlify.app/categories/</loc>
+    <loc>http://localhost:5541/categories/</loc>
   </url>
 </urlset>

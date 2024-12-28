@@ -43,11 +43,13 @@ The map is interactive.
 
 <style>
 &#10;.tiripics{
-&#10;
-display: flex;
+&#10;display: flex;
 flex-direction: column;
 justify-content: space-between;
 &#10;}
+&#10;.tag{
+bottom:0.5px;
+}
 &#10;</style>
 
 <div class="figure">
@@ -70,7 +72,7 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_143244_1.jpg" class="img-responsive" alt="Lighthouse" width="400" height="800" />
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" class="img-responsive" alt="Grassy slope" width="900" height="900" />
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_132400_1.jpg" class="img-responsive" alt="Grassy slope" width="900" height="900" />
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_124950_1.jpg" class="img-responsive" alt="Cormorants!" width="900" height="900" />
 
@@ -80,7 +82,7 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_104516.jpg" class="img-responsive" alt="next island" width="700" height="800" />
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_120943.jpg" class="img-responsive" alt="trees" width="900" height="800" />
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_120943.jpg" class="img-responsive" alt="trees" width="900" height="800" />
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_114425.jpg" class="img-responsive" alt="wide as" width="1900" height="900" />
 
@@ -88,8 +90,12 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_121559.jpg" class="img-responsive" alt="good life" width="900" height="900" />
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_114357.jpg" class="img-responsive" alt="great walks" width="900" height="900" />
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20171228_114357.jpg" class="img-responsive" alt="great walks" width="900" height="900" />
 
 </div>
 
+<div id="tag">
+
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
