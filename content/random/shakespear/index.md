@@ -31,7 +31,7 @@ blogdown::html_page:
 <br></br>
 
 <p>
-Shakespear Regional Park is another national park with many walks and bushes !
+Shakespear Regional Park is another national park with many walks and bushes ! Not far from Auckland CBD!
 </p>
 <p>
 <b>
