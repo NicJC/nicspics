@@ -74,6 +74,12 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_142241.jpg" class="img-responsive" alt="happy kingfisher" width="600" height="800"/>
 
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_141826.jpg" class="img-responsive" alt="overlook sea" width="1000" height="1000"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_141335.jpg" class="img-responsive" alt="bumble bee" width="1000" height="950"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_140917.jpg" class="img-responsive" alt="hanging tree" width="700" height="950"/>
+
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_122558.jpg" class="img-responsive" alt="This is war" width="1950" height="950"/>
 
 </div>
