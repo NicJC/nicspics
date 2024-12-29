@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:3276/tags/</link>
+    <link>https://nicspics.netlify.app/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:3276/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nicspics.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Christchurch</title>
-      <link>http://localhost:3276/tags/christchurch/</link>
+      <link>https://nicspics.netlify.app/tags/christchurch/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/christchurch/</guid>
+      <guid>https://nicspics.netlify.app/tags/christchurch/</guid>
       <description></description>
     </item>
     <item>
       <title>Gisborne</title>
-      <link>http://localhost:3276/tags/gisborne/</link>
+      <link>https://nicspics.netlify.app/tags/gisborne/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/gisborne/</guid>
+      <guid>https://nicspics.netlify.app/tags/gisborne/</guid>
       <description></description>
     </item>
     <item>
       <title>Nelson</title>
-      <link>http://localhost:3276/tags/nelson/</link>
+      <link>https://nicspics.netlify.app/tags/nelson/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/nelson/</guid>
+      <guid>https://nicspics.netlify.app/tags/nelson/</guid>
       <description></description>
     </item>
     <item>
       <title>North Head</title>
-      <link>http://localhost:3276/tags/north-head/</link>
+      <link>https://nicspics.netlify.app/tags/north-head/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/north-head/</guid>
+      <guid>https://nicspics.netlify.app/tags/north-head/</guid>
       <description></description>
     </item>
     <item>
       <title>Picton</title>
-      <link>http://localhost:3276/tags/picton/</link>
+      <link>https://nicspics.netlify.app/tags/picton/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/picton/</guid>
+      <guid>https://nicspics.netlify.app/tags/picton/</guid>
       <description></description>
     </item>
     <item>
       <title>Random</title>
-      <link>http://localhost:3276/tags/random/</link>
+      <link>https://nicspics.netlify.app/tags/random/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/random/</guid>
+      <guid>https://nicspics.netlify.app/tags/random/</guid>
       <description></description>
     </item>
     <item>
       <title>Rotorua</title>
-      <link>http://localhost:3276/tags/rotorua/</link>
+      <link>https://nicspics.netlify.app/tags/rotorua/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/rotorua/</guid>
+      <guid>https://nicspics.netlify.app/tags/rotorua/</guid>
       <description></description>
     </item>
     <item>
       <title>Shakespeare</title>
-      <link>http://localhost:3276/tags/shakespeare/</link>
+      <link>https://nicspics.netlify.app/tags/shakespeare/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/shakespeare/</guid>
+      <guid>https://nicspics.netlify.app/tags/shakespeare/</guid>
       <description></description>
     </item>
     <item>
       <title>Taupo</title>
-      <link>http://localhost:3276/tags/taupo/</link>
+      <link>https://nicspics.netlify.app/tags/taupo/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/taupo/</guid>
+      <guid>https://nicspics.netlify.app/tags/taupo/</guid>
       <description></description>
     </item>
     <item>
       <title>Tauranga</title>
-      <link>http://localhost:3276/tags/tauranga/</link>
+      <link>https://nicspics.netlify.app/tags/tauranga/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/tauranga/</guid>
+      <guid>https://nicspics.netlify.app/tags/tauranga/</guid>
       <description></description>
     </item>
     <item>
       <title>Tiritiri</title>
-      <link>http://localhost:3276/tags/tiritiri/</link>
+      <link>https://nicspics.netlify.app/tags/tiritiri/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/tiritiri/</guid>
+      <guid>https://nicspics.netlify.app/tags/tiritiri/</guid>
       <description></description>
     </item>
     <item>
       <title>Coromandel</title>
-      <link>http://localhost:3276/tags/coromandel/</link>
+      <link>https://nicspics.netlify.app/tags/coromandel/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3276/tags/coromandel/</guid>
+      <guid>https://nicspics.netlify.app/tags/coromandel/</guid>
       <description></description>
     </item>
     <item>
       <title>Home</title>
-      <link>http://localhost:3276/tags/home/</link>
+      <link>https://nicspics.netlify.app/tags/home/</link>
       <pubDate>Sun, 08 Dec 2024 11:20:19 +0000</pubDate>
-      <guid>http://localhost:3276/tags/home/</guid>
+      <guid>https://nicspics.netlify.app/tags/home/</guid>
       <description></description>
     </item>
   </channel>
