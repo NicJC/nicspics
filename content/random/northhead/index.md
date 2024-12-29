@@ -82,6 +82,10 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_140725_2.jpg" class="img-responsive" alt="rangitoto in the background" width="1000" height="1000"/>
 
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_131738_1.jpg" class="img-responsive" alt="jo up ahead" width="700" height="1000"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_131847.jpg" class="img-responsive" alt="on the edge" width="700" height="950"/>
+
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_122558.jpg" class="img-responsive" alt="This is war" width="1950" height="950"/>
 
 </div>
