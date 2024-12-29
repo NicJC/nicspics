@@ -48,6 +48,10 @@ The map is interactive.
 flex-direction: column;
 justify-content: space-between;
 &#10;}
+&#10;.tgc{
+position: relative;
+bottom:0 px;
+}
 &#10;</style>
 
 <div class="figure">
