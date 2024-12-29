@@ -1,0 +1,88 @@
+---
+title: "northhead"
+author: ''
+date: "2024-12-24"
+tags:
+- north head
+- random
+draft: false
+blogdown::html_page:
+  css: /css/style.css
+  code_folding: hide
+  fig_caption: true
+---
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <link rel="stylesheet" href="styles.css" />
+<br></br>
+
+<p>
+North head is very close to auckland CBD but to get there by car takes some time due to the traffic being so congested!
+A lot of people will simply catch a ferry across the bay to get to Auckland CBD. There is a dedicated ferry service from Devon Port which is basically where North head is situated.
+</p>
+
+
+<p><b>
+Use the map below to scroll through the area of North head, see how close it is to Auckland CBD!
+The map is interactive.
+</p></b>
+
+<style>
+
+.northheadpics{
+
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+
+
+
+</style>
+
+
+
+```{r echo=FALSE, warning=FALSE, fig.height=5, fig.width=14, cache=TRUE , fig.cap="North head map"}
+library(leaflet)
+library(knitr)
+
+m <- leaflet() %>% addTiles() %>% setView(174.813086, -36.829041, zoom = 16)
+m  #  -36.829041, 174.813086
+
+
+
+opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+<p>
+Some of the awesome photos we took here! If you download any of these photos, they'll download the original photo taken.
+</p>
+
+
+
+
+<div class="northheadpics">
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_122558.jpg" class="img-responsive" alt="This is war" width="1950" height="950"/>
+
+
+
+</div>
+
+<hr></hr>
+
+<div id="tgc">
+
+
+[back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
+
+

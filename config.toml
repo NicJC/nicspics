@@ -25,7 +25,8 @@ menu:
       url: /
     - name: random
       url: /random/tiritiri/
-
+    - name: random
+      url: /random/northhead/
     - name: coromandel
       url: /post/coromandel/
     - name: nelson
