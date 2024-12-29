@@ -17,6 +17,8 @@ blogdown::html_page:
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <link rel="stylesheet" href="styles.css" />
 <br></br>
 
 <p>
@@ -105,17 +107,13 @@ Further down the page, there are 2 takahe with a new chick. These birds are clos
 
 </div>
 
+<br></br>
 
-<div id="tag-cloud" style="padding: 15px 15px; text-align: center; bottom: auto;color:  rgb(128, 159, 191)">
+<hr></hr>
 
-<script>
-$(document).ready(function(){
-  $(".nav-tabs a").click(function(){
-    $(this).tab('show');
-  });
-});
+<div id="tgc">
 
-</script>
 
+[back to tag cloud](https://nicspics.netlify.app/tags/random/)
 
 </div>

@@ -1,15 +1,15 @@
 ---
-title: tiritiri
+title: "tiritiri"
 author: ''
-date: '2024-12-24'
+date: "2024-12-24"
 tags:
-  - tiritiri
-  - random
-draft: no
+- tiritiri
+- random
+draft: false
 blogdown::html_page:
   css: /css/style.css
   code_folding: hide
-  fig_caption: yes
+  fig_caption: true
 ---
 
   <meta charset="utf-8">
@@ -17,6 +17,8 @@ blogdown::html_page:
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <link rel="stylesheet" href="styles.css" />
 <br></br>
 
 <p>
@@ -100,16 +102,12 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 </div>
 
-<div id="tag-cloud" style="padding: 15px 15px; text-align: center; bottom: auto;color:  rgb(128, 159, 191)">
+<hr></hr>
 
-<script>
-$(document).ready(function(){
-  $(".nav-tabs a").click(function(){
-    $(this).tab('show');
-  });
-});
 
-</script>
+<div id="tgc">
 
+
+[back to tag cloud](https://nicspics.netlify.app/tags/random/)
 
 </div>
