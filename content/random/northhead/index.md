@@ -72,6 +72,8 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <div class="northheadpics">
 
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_122820.jpg" class="img-responsive" alt="relaxing day" width="1000" height="1000"/>
+
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_142241.jpg" class="img-responsive" alt="happy kingfisher" width="600" height="800"/>
 
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_141826.jpg" class="img-responsive" alt="overlook sea" width="1000" height="1000"/>
@@ -88,9 +90,23 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_125558.jpg" class="img-responsive" alt="nasturtiums" width="700" height="1000"/>
 
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_123644.jpg" class="img-responsive" alt="busy" width="1000" height="1000"/>
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_123603.jpg" class="img-responsive" alt="rusty ship" width="1000" height="1000"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_123416.jpg" class="img-responsive" alt="what you sayin?" width="700" height="1000"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_123335.jpg" class="img-responsive" alt="ship?" width="700" height="1000"/>
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_123124.jpg" class="img-responsive" alt="open sea" width="1000" height="1000"/>
+
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_131847.jpg" class="img-responsive" alt="on the edge" width="700" height="950"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_125259.jpg" class="img-responsive" alt="roots" width="700" height="950"/>
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_124210.jpg" class="img-responsive" alt="clear water" width="1000" height="1000"/>
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_123712.jpg" class="img-responsive" alt="enter the sea" width="1000" height="1000"/>
 
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_125143_1.jpg" class="img-responsive" alt="dry grass" width="1000" height="1000"/>
 
@@ -101,6 +117,8 @@ Some of the awesome photos we took here! If you download any of these photos, th
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_124412.jpg" class="img-responsive" alt="Christmas trees" width="1000" height="1000"/>
 
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_124248.jpg" class="img-responsive" alt="in the sea?" width="1000" height="1000"/>
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_124225.jpg" class="img-responsive" alt="ship in the distance" width="1000" height="1000"/>
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_122558.jpg" class="img-responsive" alt="This is war" width="1950" height="950"/>
 
