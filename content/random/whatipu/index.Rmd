@@ -66,10 +66,10 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
 <p>
-This is a pretty special place, another island sanctuary for birds. We took a quick ferry ride from downtown Auckland!
+Whatipu is part of the waitakere ranges.
 </p>
 <p>
-Further down the page, there are 2 takahe with a new chick. These birds are close to being extinct. There are about 500 to 600 of these birds left!
+Taking the photo at the end was quite something as it was quite windy that day, and we were both tired!
 </p>
 
 
