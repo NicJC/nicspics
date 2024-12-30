@@ -49,16 +49,13 @@ Drag the map around a bit to get a feel.
 &#10;display: flex;
 flex-direction: column;
 justify-content: space-between;
-&#10;
-}
+align-items:center;
+&#10;}
 &#10;.tgc{
 position: relative;
 bottom:0 px;
 }
-&#10;#happy {
-  margin: 32px 24px;
-  width: 60%;
-}
+&#10;
 &#10;</style>
 
 <div class="figure">
@@ -79,11 +76,7 @@ The Manakau heads!
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121408.jpg" class="img-responsive" alt="whatipu in the distance" width="1000" height="950"/>
 
-<div id="happy">
-
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121334.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="950"/><b><span class="img-text">happy and Jo</span></b>
-
-</div>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121334.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="950"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121418.jpg" class="img-responsive" alt="post" width="650" height="950"/>
 
