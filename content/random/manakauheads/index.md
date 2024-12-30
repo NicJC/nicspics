@@ -32,7 +32,7 @@ blogdown::html_page:
 <br></br>
 
 <p>
-The Manakau heads, very pretty, beautifuls views and some Mauri culture!
+The Manakau heads, very pretty, beautiful views and some Mauri culture!
 </p>
 <p>
 
@@ -75,6 +75,10 @@ The Manakau heads!
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121408.jpg" class="img-responsive" alt="whatipu in the distance" width="1000" height="950"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121334.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="950"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121418.jpg" class="img-responsive" alt="post" width="650" height="950"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121725.jpg" class="img-responsive" alt="mauri" width="1200" height="1100"/>
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121405.jpg" class="img-responsive" alt="on the edge" width="1100" height="1050"/>
 
