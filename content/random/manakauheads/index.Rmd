@@ -39,7 +39,7 @@ Drag the map around a bit to get a feel.
 display: flex;
 flex-direction: column;
 justify-content: space-between;
-align-items: center;
+
 
 }
 
@@ -49,8 +49,8 @@ bottom:0 px;
 }
 
 #happy {
-  width: 60%;
   margin: 32px 24px;
+  width: 60%;
 }
 
 </style>

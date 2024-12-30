@@ -49,15 +49,15 @@ Drag the map around a bit to get a feel.
 &#10;display: flex;
 flex-direction: column;
 justify-content: space-between;
-align-items: center;
-&#10;}
+&#10;
+}
 &#10;.tgc{
 position: relative;
 bottom:0 px;
 }
 &#10;#happy {
-  width: 60%;
   margin: 32px 24px;
+  width: 60%;
 }
 &#10;</style>
 
