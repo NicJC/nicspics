@@ -62,7 +62,7 @@ align-items: center;
 text-align: center; 
 }
 &#10;
-.item img { 
+.pic img { 
 margin-bottom: 10px;  
 }
 &#10;</style>
