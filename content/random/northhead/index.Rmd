@@ -100,6 +100,21 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_125259.jpg" class="img-responsive" alt="roots" width="700" height="950"/>
 
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_125143_1.jpg" class="img-responsive" alt="dry grass" width="1000" height="1000"/>
+
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_124451_3.jpg" class="img-responsive" alt="lucky bird" width="1000" height="1000"/>
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_124411.jpg" class="img-responsive" alt="good day" width="1000" height="1000"/>
+
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_124412.jpg" class="img-responsive" alt="Christmas trees" width="1000" height="1000"/>
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170108_124248.jpg" class="img-responsive" alt="in the sea?" width="1000" height="1000"/>
+
+
+
+
 
 
 
