@@ -1,0 +1,98 @@
+---
+title: "manakauheads"
+author: ''
+date: "2024-12-24"
+tags:
+- 'manakau heads'
+- random
+draft: false
+blogdown::html_page:
+  css: /css/style.css
+  code_folding: hide
+  fig_caption: true
+---
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <link rel="stylesheet" href="styles.css" />
+<br></br>
+
+<p>
+The Manakau heads, very pretty, beautifuls views and some Mauri culture!
+</p>
+
+
+<p><b>
+Use the map below to scroll around! There is a channel between the 2 peices of land, the manukau heads and whatipu.
+
+Drag the map around a bit to get a feel.
+</p></b>
+
+<style>
+
+.headspics{
+
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+
+.tgc{
+position: relative;
+bottom:0 px;
+}
+
+</style>
+
+
+
+```{r echo=FALSE, warning=FALSE, fig.height=5, fig.width=14, cache=TRUE , fig.cap="whatipu map"}
+library(leaflet)
+library(knitr)
+
+m <- leaflet() %>% addTiles() %>% setView(174.544879, -37.047250, zoom = 13)
+m  #  -37.047250, 174.544879
+
+
+
+
+opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+<p>
+The Manakau heads!
+</p>
+
+
+
+
+<div class="headspics">
+
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121408.jpg" class="img-responsive" alt="whatipu in the distance" width="1000" height="950"/>
+
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121334.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="950"/>
+
+
+
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121405.jpg" class="img-responsive" alt="on the edge" width="1100" height="1050"/>
+</div>
+
+<br></br>
+
+<hr></hr>
+
+<div id="tgc">
+
+
+[back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
