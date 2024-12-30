@@ -80,6 +80,8 @@ Further down the page, there are 2 takahe with a new chick. These birds are clos
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170104_181000.jpg" class="img-responsive" alt="out back" width="900" height="900"/>
 
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170104_175954.jpg" class="img-responsive" alt="tree" width="700" height="900"/>
+
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170104_182207.jpg" class="img-responsive" alt="on the edge" width="1100" height="1050"/>
 
 </div>
