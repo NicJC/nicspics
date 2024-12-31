@@ -1,0 +1,100 @@
+---
+title: "waiheke"
+author: ''
+date: "2024-12-24"
+tags:
+- waiheke
+- random
+draft: false
+blogdown::html_page:
+  css: /css/style.css
+  code_folding: hide
+  fig_caption: true
+---
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <link rel="stylesheet" href="styles.css" />
+<br></br>
+
+<p>
+Waiheke island is one of the larger islands close to Auckland , and accessible by ferry.
+
+There are some great walks on Waiheke!
+</p>
+
+
+<p><b>
+Use the map below to explore some of this beautiful island! 
+
+</p></b>
+
+<style>
+
+.waihekepics{
+
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+
+.tgc{
+position: relative;
+bottom:0 px;
+}
+
+</style>
+
+
+
+```{r echo=FALSE, warning=FALSE, fig.height=5, fig.width=14, cache=TRUE , fig.cap="waiheke island map"}
+library(leaflet)
+library(knitr)
+
+m <- leaflet() %>% addTiles() %>% setView(175.032221, -36.804137, zoom = 13)
+m  #  -36.804137, 175.032221
+
+
+
+
+opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+<p>
+As you can see there are ,amy islands in the Hauraki gulf!
+</p>
+<p>
+
+</p>
+
+
+
+<div class="waihekepics">
+
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_144712_1.jpg" class="img-responsive" alt="main road" width="1000" height="950"/>
+
+
+
+
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_122834.jpg" class="img-responsive" alt="blue sea" width="1100" height="1050"/>
+</div>
+
+<br></br>
+
+<hr></hr>
+
+<div id="tgc">
+
+
+[back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
+
