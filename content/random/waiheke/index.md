@@ -56,6 +56,18 @@ justify-content: space-between;
 position: relative;
 bottom:0 px;
 }
+&#10;#one{
+width: 100%;
+}
+&#10;#one img{
+width: 40%;
+}
+&#10;#two{
+width: 100%;
+}
+&#10;#two img{
+width: 40%;
+}
 &#10;</style>
 
 <div class="figure">
@@ -69,7 +81,7 @@ bottom:0 px;
 </div>
 
 <p>
-As you can see there are ,amy islands in the Hauraki gulf!
+As you can see there are many islands in the Hauraki gulf!
 </p>
 <p>
 It turns out that the water on waiheke isn’t from the mainland (Auckland), but it’s actually tank water collected from rain. There is a library there too!
@@ -77,9 +89,17 @@ It turns out that the water on waiheke isn’t from the mainland (Auckland), but
 
 <div class="waihekepics">
 
+<div id="one">
+
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_144712_1.jpg" class="img-responsive" alt="main road" width="1000" height="950"/>
 
+</div>
+
+<div id="two">
+
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_122834.jpg" class="img-responsive" alt="blue sea" width="1100" height="1050"/>
+
+</div>
 
 </div>
 
