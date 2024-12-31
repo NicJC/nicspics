@@ -109,7 +109,7 @@ Further down the page, there are 2 takahe with a new chick. These birds are clos
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_102627_1.jpg" class="img-responsive" alt="calm bay" width="900" height="900"/>
 
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_102419.jpg" class="img-responsive" alt="back to the ferry" width="700" height="950"/>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_102419.jpg" class="img-responsive" alt="back to the ferry" width="800" height="950"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_131718.jpg" class="img-responsive" alt="looking up" width="700" height="1050"/>
 
