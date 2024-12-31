@@ -75,6 +75,8 @@ Further down the page, there are 2 takahe with a new chick. These birds are clos
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_132636_1.jpg" class="img-responsive" alt="beach view" width="900" height="900"/>
 
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_133332.jpg" class="img-responsive" alt="curved bay" width="1550" height="750"/>
+
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_114151.jpg" class="img-responsive" alt="down path" width="900" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_113424.jpg" class="img-responsive" alt="right view" width="1000" height="1050"/>
@@ -83,21 +85,33 @@ Further down the page, there are 2 takahe with a new chick. These birds are clos
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_123756.jpg" class="img-responsive" alt="beautiful ocean" width="950" height="950"/>
 
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_143251.jpg" class="img-responsive" alt="blue ocean" width="1050" height="1050"/>
+
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_110700.jpg" class="img-responsive" alt="path down" width="1000" height="950"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_112314.jpg" class="img-responsive" alt="wide awesome" width="1200" height="1100"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_105325.jpg" class="img-responsive" alt="bay of boats" width="1000" height="950"/>
 
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_121007.jpg" class="img-responsive" alt="branched out" width="1000" height="1000"/>
+
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_105015.jpg" class="img-responsive" alt="arrival bay" width="1000" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_104644.jpg" class="img-responsive" alt="entry shacks" width="900" height="900"/>
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_145514.jpg" class="img-responsive" alt="The other end" width="1800" height="900"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_122931.jpg" class="img-responsive" alt="hidden treasure" width="700" height="1050"/>
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_122841.jpg" class="img-responsive" alt="many boats" width="1000" height="1050"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_104121.jpg" class="img-responsive" alt="takehe" width="1000" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_102627_1.jpg" class="img-responsive" alt="calm bay" width="900" height="900"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_102419.jpg" class="img-responsive" alt="back to the ferry" width="700" height="950"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_131718.jpg" class="img-responsive" alt="looking up" width="700" height="1050"/>
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170206_115953.jpg" class="img-responsive" alt="Wide view" width="2100" height="900"/>
 
