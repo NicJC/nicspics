@@ -56,19 +56,11 @@ justify-content: space-between;
 position: relative;
 bottom:0 px;
 }
-&#10;#one{
-width: 100%;
-}
-&#10;#one img{
-width: 40%;
-}
-&#10;#two{
-width: 100%;
-}
-&#10;#two img{
-width: 40%;
-}
-&#10;</style>
+&#10;
+&#10;
+&#10;
+&#10;
+</style>
 
 <div class="figure">
 
@@ -92,12 +84,54 @@ It turns out that the water on waiheke isn’t from the mainland (Auckland), but
 <div id="one">
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_144712_1.jpg" class="img-responsive" alt="main road" width="1000" height="950"/>
+<p>
+Main road
+</p>
+
+</div>
+
+<div id="five">
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_123459.jpg" class="img-responsive" alt="boats in bay" width="950" height="950"/>
+<p>
+Beautiful little bay
+</p>
+
+</div>
+
+<div id="three">
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_125313.jpg" class="img-responsive" alt="boats in bay" width="1000" height="950"/>
+<p>
+Boats in bay
+</p>
+
+</div>
+
+<div id="four">
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_123936_3.jpg" class="img-responsive" alt="boats in bay" width="950" height="950"/>
+<p>
+Bay
+</p>
+
+</div>
+
+<div id="six">
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_120800.jpg" class="img-responsive" alt="boats in bay" width="950" height="950"/>
+<p>
+Imagine living here!
+</p>
 
 </div>
 
 <div id="two">
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_122834.jpg" class="img-responsive" alt="blue sea" width="1100" height="1050"/>
+<p>
+Sea
+</p>
 
 </div>
 
