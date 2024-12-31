@@ -72,7 +72,7 @@ bottom:0 px;
 As you can see there are ,amy islands in the Hauraki gulf!
 </p>
 <p>
-It turns out that the water isn’t from the mainland, but it’s actually talk water collected from rain. There is a library there too!
+It turns out that the water on waiheke isn’t from the mainland (Auckland), but it’s actually tank water collected from rain. There is a library there too!
 </p>
 
 <div class="waihekepics">
