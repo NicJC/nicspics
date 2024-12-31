@@ -70,7 +70,7 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 As you can see there are ,amy islands in the Hauraki gulf!
 </p>
 <p>
-
+It turns out that the water isn't from the mainland, but it's actually talk water collected from rain. There is a library there too!
 </p>
 
 
