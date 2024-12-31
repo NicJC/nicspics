@@ -50,7 +50,8 @@ Use the map below to explore some of this beautiful island!
 &#10;.waihekepics{
 &#10;display: flex;
 flex-direction: column;
-justify-content: space-between;
+align-items: center;
+gap: 20px;
 &#10;}
 &#10;.tgc{
 position: relative;
@@ -60,7 +61,7 @@ bottom:0 px;
 &#10;
 &#10;
 &#10;
-</style>
+&#10;</style>
 
 <div class="figure">
 
@@ -110,7 +111,7 @@ Boats in bay
 
 <div id="four">
 
-<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_123936_3.jpg" class="img-responsive" alt="boats in bay" width="950" height="950"/>
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_123936_3.jpg" class="img-responsive" alt="boats in bay" width="950" height="850"/>
 <p>
 Bay
 </p>
@@ -119,7 +120,7 @@ Bay
 
 <div id="six">
 
-<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_120800.jpg" class="img-responsive" alt="boats in bay" width="950" height="950"/>
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_120800.jpg" class="img-responsive" alt="boats in bay" width="1050" height="1000"/>
 <p>
 Imagine living here!
 </p>
