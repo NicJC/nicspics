@@ -83,47 +83,17 @@ The Manakau heads!
 
 <div class="headspics">
 
-<div class="pic">
-
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121408.jpg" class="img-responsive" alt="whatipu in the distance" width="1000" height="950"/>
-<p>
-</p>
-
-</div>
-
-<div class="pic">
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121334.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="950"/>
-<p>
-happy and Jo
-</p>
-
-</div>
-
-<div class="pic">
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121418.jpg" class="img-responsive" alt="post" width="650" height="950"/>
-<p>
-</p>
-
-</div>
-
-<div class="pic">
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121725.jpg" class="img-responsive" alt="mauri" width="1200" height="1100"/>
-<p>
-</p>
 
-</div>
-
-<div class="pic">
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121423.jpg" class="img-responsive" alt="rusty pole" width="800" height="1000"/>
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121405.jpg" class="img-responsive" alt="on the edge" width="1100" height="1050"/>
-<p>
-awesome!
-</p>
-
-</div>
 
 </div>
 
