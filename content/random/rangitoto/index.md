@@ -77,6 +77,15 @@ I was supposed to take allergy meds, antihistamine, nasal spray and eyedrops for
 
 <div class="rangitotopics">
 
+<div id="one">
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_151719.jpg" class="img-responsive" alt="island in distance" width="1350" height="1250"/>
+<p>
+<b> Our arrival</b>
+</p>
+
+</div>
+
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_140427.jpg" class="img-responsive" alt="Awesome day" width="1000" height="950"/>
 
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_151220.jpg" class="img-responsive" alt="Arrival point" width="950" height="950"/>
@@ -88,15 +97,6 @@ I was supposed to take allergy meds, antihistamine, nasal spray and eyedrops for
 <img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_140257.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="1050"/>
 <p>
 <b> A bee on Jo’s hat! </b>
-</p>
-
-</div>
-
-<div id="one">
-
-<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_144351.jpg" class="img-responsive" alt="island in distance" width="1350" height="1250"/>
-<p>
-<b> The black rocks!</b>
 </p>
 
 </div>
