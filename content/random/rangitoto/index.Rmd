@@ -22,7 +22,7 @@ blogdown::html_page:
 <br></br>
 
 <p>
-rangitoto island is originally a volcano which emerged from the sea several centuries ago, about 600 years. We've been there a few times, and the black rock was probably lave rocks!
+rangitoto island is originally a volcano which emerged from the sea several centuries ago, about 600 years. We've been there a few times, and the black rocks are probably lava rocks!
 
 A pretty decent walk!
 </p>
@@ -69,7 +69,7 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
 <p>
-We've walked to summit is pretty awesome!
+We've walked to summit, and its pretty awesome!
 </p>
 <p>
 The island is a pest free island.
@@ -83,15 +83,23 @@ The island is a pest free island.
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_140427.jpg" class="img-responsive" alt="Awesome day" width="1000" height="950"/>
 
 
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_151220.jpg" class="img-responsive" alt="Arrival point" width="950" height="950"/>
 
 
-<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141009.jpg" class="img-responsive" alt="Jo" width="700" height="950"/>
+
+
+<img style="float: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141009.jpg" class="img-responsive" alt="Jo" width="700" height="950"/>
 
 
 
 <div id="six">
-<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_140257.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="1050"/>
-<p>   A bee on Jo's hat! Pest free they said.</p>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_140257.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="1050"/>
+<p><b>   A bee on Jo's hat! </b></p>
+</div>
+
+<div id="one">
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_144351.jpg" class="img-responsive" alt="island in distance" width="1400" height="1250"/>
+<p><b>   The black rocks!</b> </p>
 </div>
 
 
@@ -100,8 +108,10 @@ The island is a pest free island.
 
 
 
-
+<div id="two">
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141645.jpg" class="img-responsive" alt="island in distance" width="1100" height="1050"/>
+<p><b>   That island in the back is Motutapu island, I've been there before and it's very pretty but I went there on a volunteer day with my work. We had to do weeding and heavy labour. I've wanted to go back there with Jo (not to work, but to explore!), but its not easy to get a ferry to the island, and for 2 people it would be very expensive.</b> </p>
+</div
 
 </div>
 
