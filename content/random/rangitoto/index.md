@@ -32,10 +32,8 @@ blogdown::html_page:
 <br></br>
 
 <p>
-
-rangitoto island is originally a volcano which emerged from the sea several centuries ago, about 600 years. We’ve been there a few times, and the black rocks are probably lava rocks!
-
-A pretty decent walk!
+rangitoto island is a volcano which emerged from the sea several centuries ago, about 600 years. We’ve been there a few times, and the black rocks are probably lava rocks!
+I assume that the volcano is dormant!
 </p>
 <p>
 
@@ -70,7 +68,7 @@ bottom:0 px;
 </div>
 
 <p>
-We’ve walked to summit, and its pretty awesome!
+We’ve walked to the summit, and its a pretty awesome walk and view!
 The island is a pest free island.
 </p>
 <p>
