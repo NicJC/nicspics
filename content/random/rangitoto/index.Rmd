@@ -1,0 +1,120 @@
+---
+title: "rangitoto"
+author: ''
+date: "2024-12-24"
+tags:
+- rangitoto
+- random
+draft: false
+blogdown::html_page:
+  css: /css/style.css
+  code_folding: hide
+  fig_caption: true
+---
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <link rel="stylesheet" href="styles.css" />
+<br></br>
+
+<p>
+rangitoto island is originally a volcano which emerged from the sea several centuries ago, about 600 years. We've been there a few times, and the black rock was probably lave rocks!
+
+A pretty decent walk!
+</p>
+
+
+<p><b>
+Use the map below to explore some of this island and it's surrounds! 
+
+</p></b>
+
+<style>
+
+.rangitotopics{
+
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+
+.tgc{
+position: relative;
+bottom:0 px;
+}
+
+
+
+</style>
+
+
+
+```{r echo=FALSE, warning=FALSE, fig.height=5, fig.width=14, cache=TRUE , fig.cap="rangitoto island map"}
+library(leaflet)
+library(knitr)
+
+m <- leaflet() %>% addTiles() %>% setView(174.862072, -36.808045, zoom = 13)
+m  #  -36.808045, 174.862072
+
+
+
+
+opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+<p>
+We've walked to summit is pretty awesome!
+</p>
+<p>
+The island is a pest free island.
+</p>
+
+
+
+<div class="rangitotopics">
+
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_140427.jpg" class="img-responsive" alt="Awesome day" width="1000" height="950"/>
+
+
+
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141009.jpg" class="img-responsive" alt="Jo" width="700" height="950"/>
+
+
+
+<div id="six">
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_140257.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="1050"/>
+<p>   A bee on Jo's hat! Pest free they said.</p>
+</div>
+
+
+
+
+
+
+
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141645.jpg" class="img-responsive" alt="island in distance" width="1100" height="1050"/>
+
+</div>
+
+</div>
+
+<br></br>
+
+<hr></hr>
+
+<div id="tgc">
+
+
+[back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
+
