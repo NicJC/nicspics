@@ -102,7 +102,7 @@ The island is a pest free island.
 <p><b>   The black rocks!</b> </p>
 </div>
 
-<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141754.jpg" class="img-responsive" alt="happy couple" width="1000" height="1000"/>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141754.jpg" class="img-responsive" alt="happy couple" width="1000" height="1000"/>
 
 
 
