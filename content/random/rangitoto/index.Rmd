@@ -70,12 +70,11 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 
 <p>
 We've walked to summit, and its pretty awesome!
-</p>
-<p>
 The island is a pest free island.
 </p>
-
-
+<p>
+I was supposed to take allergy meds, antihistamine, nasal spray and eyedrops for the allergies and volcano dust, but I forgot. I was sneezing furiously and my eyes were watering profusely!
+</p>
 
 <div class="rangitotopics">
 
@@ -101,9 +100,10 @@ The island is a pest free island.
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_144351.jpg" class="img-responsive" alt="island in distance" width="1350" height="1250"/>
 <p><b>   The black rocks!</b> </p>
 </div>
-
+<div id="three">
 <img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141754.jpg" class="img-responsive" alt="happy couple" width="1000" height="1000"/>
-
+<p><b>   Jo and me with my facade of health, and the rare smile!</b> </p>
+</div>
 
 
 <div id="two">

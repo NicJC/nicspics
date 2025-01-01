@@ -71,9 +71,10 @@ bottom:0 px;
 
 <p>
 We’ve walked to summit, and its pretty awesome!
+The island is a pest free island.
 </p>
 <p>
-The island is a pest free island.
+I was supposed to take allergy meds, antihistamine, nasal spray and eyedrops for the allergies and volcano dust, but I forgot. I was sneezing furiously and my eyes were watering profusely!
 </p>
 
 <div class="rangitotopics">
@@ -102,7 +103,14 @@ The island is a pest free island.
 
 </div>
 
+<div id="three">
+
 <img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141754.jpg" class="img-responsive" alt="happy couple" width="1000" height="1000"/>
+<p>
+<b> Jo and me with my facade of health, and the rare smile!</b>
+</p>
+
+</div>
 
 <div id="two">
 
