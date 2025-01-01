@@ -95,7 +95,7 @@ The island is a pest free island.
 
 <div id="one">
 
-<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_144351.jpg" class="img-responsive" alt="island in distance" width="1400" height="1250"/>
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_144351.jpg" class="img-responsive" alt="island in distance" width="1350" height="1250"/>
 <p>
 <b> The black rocks!</b>
 </p>
@@ -104,7 +104,7 @@ The island is a pest free island.
 
 <div id="two">
 
-<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141645.jpg" class="img-responsive" alt="island in distance" width="1100" height="1050"/>
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141645.jpg" class="img-responsive" alt="island in distance" width="1400" height="1300"/>
 <p>
 <b> That island in the back is Motutapu island, I’ve been there before and it’s very pretty but I went there on a volunteer day with my work. We had to do weeding and heavy labour. I’ve wanted to go back there with Jo (not to work, but to explore!), but its not easy to get a ferry to the island, and for 2 people it would be very expensive.</b>
 </p>
