@@ -82,15 +82,23 @@ It turns out that the water on waiheke isn’t from the mainland (Auckland), but
 
 <div class="waihekepics">
 
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_115630.jpg" class="img-responsive" alt="kicks off here" width="1100" height="1050"/>
+
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_144712_1.jpg" class="img-responsive" alt="main road" width="1000" height="950"/>
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_123459.jpg" class="img-responsive" alt="boats in bay" width="950" height="950"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_121842.jpg" class="img-responsive" alt="sea entrance" width="1000" height="1050"/>
 
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_125313.jpg" class="img-responsive" alt="boats in bay" width="1000" height="950"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_123936_3.jpg" class="img-responsive" alt="boats in bay" width="950" height="850"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_120800.jpg" class="img-responsive" alt="boats in bay" width="1050" height="1000"/>
+
+<img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_115840.jpg" class="img-responsive" alt="hilly" width="950" height="1000"/>
+
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_120711.jpg" class="img-responsive" alt="edge" width="1150" height="1100"/>
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20180908_122834.jpg" class="img-responsive" alt="blue sea" width="1100" height="1050"/>
 
