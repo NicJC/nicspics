@@ -94,15 +94,6 @@ I was supposed to take allergy meds, antihistamine, nasal spray and eyedrops for
 
 <img style="float: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141009.jpg" class="img-responsive" alt="Jo" width="700" height="950"/>
 
-<div id="six">
-
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_140257.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="1050"/>
-<p>
-<b> A bee on Jo’s hat! </b>
-</p>
-
-</div>
-
 <div id="three">
 
 <img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141754.jpg" class="img-responsive" alt="happy couple" width="1000" height="1000"/>
