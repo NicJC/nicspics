@@ -24,7 +24,7 @@ blogdown::html_page:
 library(leaflet)
 library(knitr)
 
-m <- leaflet() %>% addTiles() %>% setView(173.265414, -41.267588, zoom = 12)
+m <- leaflet() %>% addTiles() %>% setView(173.265414, -41.267588, zoom = 13)
 m  #  -41.267588, 173.265414
 
 

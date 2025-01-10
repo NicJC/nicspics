@@ -75,14 +75,7 @@ The Manakau heads!
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121408.jpg" class="img-responsive" alt="whatipu in the distance" width="1000" height="950"/>
 
-<div id="six">
-
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121334.jpg" class="img-responsive" alt="happy and Jo" width="1000" height="950"/>
-<p>
-happy and Jo
-</p>
-
-</div>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20220103_121418.jpg" class="img-responsive" alt="post" width="650" height="950"/>
 
