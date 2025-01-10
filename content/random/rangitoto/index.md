@@ -71,9 +71,6 @@ bottom:0 px;
 We’ve walked to the summit, and its a pretty awesome walk and view!
 The island is a pest free island.
 </p>
-<p>
-I was supposed to take allergy meds, antihistamine, nasal spray and eyedrops for the allergies and volcano dust, but I forgot. I was sneezing furiously and my eyes were watering profusely!
-</p>
 
 <div class="rangitotopics">
 
@@ -98,16 +95,13 @@ I was supposed to take allergy meds, antihistamine, nasal spray and eyedrops for
 
 <img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141754.jpg" class="img-responsive" alt="happy couple" width="1000" height="1000"/>
 <p>
-<b> Jo and me with my facade of health, and the rare smile!</b>
-</p>
-
 </div>
 
 <div id="two">
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141645.jpg" class="img-responsive" alt="island in distance" width="1400" height="1300"/>
 <p>
-<b> That island in the back is Motutapu island, I’ve been there before and it’s very pretty but I went there on a volunteer day with my work. We had to do weeding and heavy labour. I’ve wanted to go back there with Jo (not to work, but to explore!), but its not easy to get a ferry to the island, and for 2 people it would be very expensive.</b>
+That island in the back is Motutapu island, I’ve been there before and it’s very pretty but I went there on a volunteer day with my work. I’ve wanted to go back there with Jo , but its not easy to get a ferry to the island, and for 2 people it would be very expensive as the charter would have to make the trip just for us.
 </p>
 
 </div>
@@ -122,5 +116,9 @@ I was supposed to take allergy meds, antihistamine, nasal spray and eyedrops for
 <div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
+
+</div>
 
 </div>
