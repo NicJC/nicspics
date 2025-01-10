@@ -32,11 +32,13 @@ blogdown::html_page:
 <br></br>
 
 <p>
+<center>
 
 Waiheke island is one of the larger islands close to Auckland , and accessible by ferry.
 
 There are some great walks on Waiheke!
 </p>
+</center>
 <p>
 
 <b>
@@ -74,10 +76,13 @@ bottom:0 px;
 </div>
 
 <p>
+<center>
 As you can see there are many islands in the Hauraki gulf!
 </p>
+</center>
 <p>
-It turns out that the water on waiheke isn’t from the mainland (Auckland), but it’s actually tank water collected from rain. There is a library there too!
+It turns out that the water on waiheke isn’t from the mainland (Auckland), but it’s actually tank water collected from rain.
+There is a library there too!
 </p>
 
 <div class="waihekepics">

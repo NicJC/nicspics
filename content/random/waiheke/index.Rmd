@@ -21,11 +21,11 @@ blogdown::html_page:
   <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-<p>
+<p><center>
 Waiheke island is one of the larger islands close to Auckland , and accessible by ferry.
 
 There are some great walks on Waiheke!
-</p>
+</p></center>
 
 
 <p><b>
@@ -76,11 +76,12 @@ opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
-<p>
+<p><center>
 As you can see there are many islands in the Hauraki gulf!
-</p>
+</p></center>
 <p>
-It turns out that the water on waiheke isn't from the mainland (Auckland), but it's actually tank water collected from rain. There is a library there too!
+It turns out that the water on waiheke isn't from the mainland (Auckland), but it's actually tank water collected from rain. 
+There is a library there too!
 </p>
 
 

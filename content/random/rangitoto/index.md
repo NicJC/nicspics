@@ -32,9 +32,11 @@ blogdown::html_page:
 <br></br>
 
 <p>
-rangitoto island is a volcano which emerged from the sea several centuries ago, about 600 years. We’ve been there a few times, and the black rocks are probably lava rocks!
+<center>
+Rangitoto island is a volcano which emerged from the sea several centuries ago, about 600 years. We’ve been there a few times, and the black rocks are probably lava rocks!
 I assume that the volcano is dormant!
 </p>
+</center>
 <p>
 
 <b>
@@ -45,9 +47,7 @@ Use the map below to explore some of this island and it’s surrounds!
 </b>
 
 <style>
-&#10;.p{
-text-align: center;
-}
+&#10;
 &#10;.rangitotopics{
 &#10;display: flex;
 flex-direction: column;

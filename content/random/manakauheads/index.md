@@ -32,12 +32,16 @@ blogdown::html_page:
 <br></br>
 
 <p>
+<center>
 The Manakau heads, very pretty, beautiful views and some Mauri culture!
 </p>
+</center>
 <p>
 
 <b>
-Use the map below to scroll around! There is a channel between the 2 peices of land, the manukau heads and whatipu.
+Use the map below to scroll around!
+
+There is a channel between the 2 peices of land, the manukau heads and whatipu.
 
 Drag the map around a bit to get a feel.
 </p>

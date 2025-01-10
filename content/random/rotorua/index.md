@@ -32,12 +32,20 @@ blogdown::html_page:
 <br></br>
 
 <p>
+<center>
+
 Rotorua island, somewhere in the Hauraki gulf!
+
+This is a truely amazing island.
 </p>
+</center>
 <p>
+
 <b>
 Use the map below to scroll through the area of Rotorua island!
-The map is interactive.
+
+It’s a bit further of a ferry ride from Auckland CBD, past Waiheke island.
+
 </p>
 
 </b>

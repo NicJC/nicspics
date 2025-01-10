@@ -32,15 +32,19 @@ blogdown::html_page:
 <br></br>
 
 <p>
+<center>
 
 Whatipu was supposed to be a gentle walk, we landed up having a serious walk, pulling ourselves up by chains!
 
 There was a beautiful vista though, an amazing view!
 </p>
+</center>
 <p>
 
 <b>
-Use the map below to scroll through the area of whatipu! There is a channel between the 2 peices of land, whatipu and the manukau heads which is also very beautiful.
+Use the map below to scroll through the area of whatipu!
+
+There is a channel between the 2 peices of land, whatipu and the manukau heads which is also very beautiful.
 
 Drag the map around a bit to get a feel.
 </p>
@@ -73,8 +77,13 @@ bottom:0 px;
 Whatipu is part of the waitakere ranges.
 </p>
 <p>
-Taking the photo at the end was quite something as it was quite windy that day, and we were both tired!
+<center>
+
+Taking the photo at the end was quite something as it was very windy that day, and we were both tired.
+
+I crab walked some of the way down!
 </p>
+</center>
 
 <div class="whatipupics">
 

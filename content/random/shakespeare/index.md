@@ -32,12 +32,15 @@ blogdown::html_page:
 <br></br>
 
 <p>
-Shakespeare Regional Park is another national park with many walks and bushes ! Not far from Auckland CBD!
+<center>
+Shakespeare Regional Park is another national park with many walks and bushes ! Not too far from Auckland CBD!
 </p>
+</center>
 <p>
+
 <b>
 Use the map below to scroll through the area of Shakespeare Regional Park!
-The map is interactive.
+
 </p>
 
 </b>
