@@ -57,6 +57,11 @@ Drag the map around a bit to get a feel.
 flex-direction: column;
 justify-content: space-between;
 &#10;}
+&#10;.whatipupics2{
+&#10;display: flex;
+flex-direction: column;
+justify-content: space-between;
+&#10;}
 &#10;.tgc{
 position: relative;
 bottom:0 px;
@@ -76,14 +81,6 @@ bottom:0 px;
 <p>
 Whatipu is part of the waitakere ranges.
 </p>
-<p>
-<center>
-
-Taking the photo at the end was quite something as it was very windy that day, and we were both tired.
-
-I crab walked some of the way down!
-</p>
-</center>
 
 <div class="whatipupics">
 
@@ -106,6 +103,19 @@ I crab walked some of the way down!
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170104_153449.jpg" class="img-responsive" alt="more streams" width="900" height="1000"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170104_175954.jpg" class="img-responsive" alt="tree" width="700" height="900"/>
+
+</div>
+
+<p>
+<center>
+
+Taking the photo at the end was quite something as it was very windy that day, and we were both tired.
+
+I crab walked some of the way down!
+</p>
+</center>
+
+<div class="whatipupics2">
 
 <img style="float: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170104_173742_1.jpg" class="img-responsive" alt="some way to go" width="900" height="1000"/>
 
