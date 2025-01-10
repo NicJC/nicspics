@@ -45,6 +45,9 @@ Use the map below to explore some of this island and it’s surrounds!
 </b>
 
 <style>
+&#10;.p{
+text-align: center;
+}
 &#10;.rangitotopics{
 &#10;display: flex;
 flex-direction: column;
@@ -101,7 +104,7 @@ The island is a pest free island.
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141645.jpg" class="img-responsive" alt="island in distance" width="1400" height="1300"/>
 <p>
-That island in the back is Motutapu island, I’ve been there before and it’s very pretty but I went there on a volunteer day with my work. I’ve wanted to go back there with Jo , but its not easy to get a ferry to the island, and for 2 people it would be very expensive as the charter would have to make the trip just for us.
+That island in the back is Motutapu island, I’ve been there before and it’s very pretty but I went there on a volunteer day with my work. I’ve wanted to go back there with Jo , but it’s not easy to get a ferry to the island, and for 2 people it would be very expensive as the charter would have to make the trip just for us.
 </p>
 
 </div>
