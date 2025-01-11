@@ -21,17 +21,17 @@ blogdown::html_page:
   <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-<p><center>
+<div><h3><center>
 Waiheke island is one of the larger islands close to Auckland , and accessible by ferry.
 
 There are some great walks on Waiheke!
-</p></center>
+</div></h3></center>
 
 
-<p><b>
+<p>
 Use the map below to explore some of this beautiful island! 
 
-</p></b>
+</p>
 
 <style>
 

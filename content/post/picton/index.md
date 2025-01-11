@@ -25,17 +25,6 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-<div>
-
-<h3>
-<center>
-
-Picton was a real supprise to us. It is very beautiful, small but it had everything!
-
-We were here over a new year’s eve, and had some amazing fireworks in the bay.
-</div>
-</h3>
-</center>
 <style>
 &#10;.pictonpics{
 &#10;display: flex;
@@ -44,6 +33,21 @@ justify-content: space-between;
 &#10;}
 &#10;
 </style>
+
+<div>
+
+<h3>
+<center>
+
+Picton was a real supprise to us. It is very beautiful, small but it had everything!
+
+We were here over a new year’s eve, and had some amazing fireworks in the bay.
+</center>
+</h3>
+
+</div>
+
+<style>
 <p>
 Use the map below to scroll through the area of Picton!
 </p>
@@ -70,5 +74,3 @@ Use the map below to scroll through the area of Picton!
 
 <hr>
 </hr>
-
-</div>

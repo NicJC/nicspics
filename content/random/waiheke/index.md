@@ -31,23 +31,22 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-<p>
+<div>
+
+<h3>
 <center>
 
 Waiheke island is one of the larger islands close to Auckland , and accessible by ferry.
 
 There are some great walks on Waiheke!
-</p>
+</div>
+</h3>
 </center>
 <p>
 
-<b>
 Use the map below to explore some of this beautiful island!
 
 </p>
-
-</b>
-
 <style>
 &#10;.waihekepics{
 &#10;display: flex;
@@ -119,5 +118,7 @@ There is a library there too!
 <div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
 
 </div>
