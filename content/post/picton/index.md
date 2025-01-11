@@ -25,6 +25,29 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
+<div>
+
+<h3>
+<center>
+
+Picton was a real supprise to us. It is very beautiful, small but it had everything!
+
+We were here over a new year’s eve, and had some amazing fireworks in the bay.
+</div>
+</h3>
+</center>
+<style>
+&#10;.pictonpics{
+&#10;display: flex;
+flex-direction: column;
+justify-content: space-between;
+&#10;}
+&#10;
+</style>
+<p>
+Use the map below to scroll through the area of Picton!
+</p>
+
 <div class="figure">
 
 <div class="leaflet html-widget html-fill-item" id="htmlwidget-1" style="width:1344px;height:480px;"></div>
@@ -35,14 +58,17 @@ blogdown::html_page:
 
 </div>
 
-<p>
-<b>
-Use the map below to scroll through the area of Picton!
-The map is interactive.
-</p>
+<div class="pictonpics">
 
-</b>
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" class="img-responsive" alt="" width="1200" height="1050"/>
 
-<center>
-<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" width="400" height="600"/>
-</center>
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_131654(0).jpg" class="img-responsive" alt="" width="1200" height="1050"/>
+
+</div>
+
+<br></br>
+
+<hr>
+</hr>
+
+</div>
