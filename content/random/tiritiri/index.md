@@ -31,22 +31,21 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-<p>
+<div>
+
+<h3>
 <center>
 Tiritiri Matangi island is an island sanctuary with some pretty rare birds
-</p>
+</div>
+</h3>
 </center>
 <p>
 
-<b>
 Use the map below to scroll through the area of Tiritiri Matangi Island!
 
 This island is quite close to Shakespeare regional park
 
 </p>
-
-</b>
-
 <style>
 &#10;.tiripics{
 &#10;display: flex;
@@ -109,5 +108,7 @@ Some of the awesome photos we took here! If you download any of these photos, th
 <div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
 
 </div>
