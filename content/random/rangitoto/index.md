@@ -76,14 +76,7 @@ The island is a pest free island.
 
 <div class="rangitotopics">
 
-<div id="one">
-
-<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_151719.jpg" class="img-responsive" alt="island in distance" width="1350" height="1250"/>
-<p>
-<b> Our arrival</b>
-</p>
-
-</div>
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_151719.jpg" class="img-responsive" alt="" width="1350" height="1250"/>
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_140427.jpg" class="img-responsive" alt="Awesome day" width="1000" height="950"/>
 
@@ -93,13 +86,7 @@ The island is a pest free island.
 
 <img style="float: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141009.jpg" class="img-responsive" alt="Jo" width="700" height="950"/>
 
-<div id="three">
-
 <img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141754.jpg" class="img-responsive" alt="happy couple" width="1000" height="1000"/>
-
-</div>
-
-<div id="two">
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/IMG_20170105_141645.jpg" class="img-responsive" alt="island in distance" width="1400" height="1300"/>
 
@@ -121,8 +108,6 @@ That island in the back is Motutapu island, I’ve been there before and it’s 
 <div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
-
-</div>
 
 </div>
 
