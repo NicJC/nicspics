@@ -31,11 +31,14 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-<p>
+<div>
+
+<h3>
 <center>
 Rangitoto island is a volcano which emerged from the sea several centuries ago, about 600 years. We’ve been there a few times, and the black rocks are probably lava rocks!
 I assume that the volcano is dormant!
-</p>
+</div>
+</h3>
 </center>
 <p>
 
@@ -119,6 +122,8 @@ That island in the back is Motutapu island, I’ve been there before and it’s 
 <div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
 
 </div>
 

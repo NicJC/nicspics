@@ -21,9 +21,24 @@ blogdown::html_page:
 <script src="{{< blogdown/postref >}}index_files/Proj4Leaflet/proj4leaflet.js"></script>
 <link href="{{< blogdown/postref >}}index_files/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/leaflet-binding/leaflet.js"></script>
-
 <link rel="stylesheet" href="styles.css" />
 <br></br>
+
+<div>
+
+<h3>
+<center>
+Nelson was a really cool trip, we had quite a lot of driving, and the hills were quite treacherous, but as always it was worth it!
+</div>
+</h3>
+</center>
+<p>
+
+Use the map below to scroll around Nelson, we went to Motueka where we stayed a few nights, had some great walks, and there was also a really nice restaurant that we went to!
+
+We were also at Able Tasman for some walking and awesome site seeing!
+
+</p>
 
 <div class="figure">
 
@@ -46,3 +61,5 @@ The map is interactive.
 <center>
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" width="400" height="600"/>
 </center>
+
+</div>

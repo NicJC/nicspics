@@ -31,23 +31,22 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-<p>
+<div>
+
+<h3>
 <center>
 The Manakau heads, very pretty, beautiful views and some Mauri culture!
-</p>
+</div>
+</h3>
 </center>
 <p>
 
-<b>
 Use the map below to scroll around!
 
 There is a channel between the 2 peices of land, the manukau heads and whatipu.
 
 Drag the map around a bit to get a feel.
 </p>
-
-</b>
-
 <style>
 &#10;.headspics{
 &#10;display: flex;
@@ -99,5 +98,7 @@ The Manakau heads!
 <div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
 
 </div>

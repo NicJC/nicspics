@@ -31,25 +31,24 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-<p>
+<div>
+
+<h3>
 <center>
 
 Rotorua island, somewhere in the Hauraki gulf!
 
 This is a truely amazing island.
-</p>
+</div>
+</h3>
 </center>
 <p>
 
-<b>
 Use the map below to scroll through the area of Rotorua island!
 
 It’s a bit further of a ferry ride from Auckland CBD, past Waiheke island.
 
 </p>
-
-</b>
-
 <style>
 &#10;.rotoruaislandpics{
 &#10;display: flex;
@@ -133,5 +132,7 @@ Further down the page, there are 2 takahe with a new chick. These birds are clos
 <div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
 
 </div>
