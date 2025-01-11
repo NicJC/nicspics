@@ -59,7 +59,8 @@ justify-content: space-between;
 &#10;}
 &#10;.endwhatipu{
 &#10;float: right; 
-margin: 20px
+margin: 15px;
+padding: 25px;
 &#10;}
 &#10;
 .tgc{
