@@ -34,6 +34,7 @@ blogdown::html_page:
 <div>
 
 <h3>
+<center>
 <p>
 
 Whatipu was supposed to be a gentle walk, we landed up having a serious walk, pulling ourselves up by chains!
@@ -42,6 +43,7 @@ There was a beautiful vista though, an amazing view!
 </p>
 </div>
 </h3>
+</center>
 <p>
 
 Use the map below to scroll through the area of whatipu!
@@ -56,17 +58,7 @@ Drag the map around a bit to get a feel.
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;
-&#10;div{
-border: 1px solid white;
-  padding: 10px;
-  width: 1500px;
-  height: 200px;
-  margin: 50px;
-  text-align: center;
-&#10;}
-&#10;
-.tgc{
+&#10;.tgc{
 position: relative;
 bottom:0 px;
 }
@@ -119,6 +111,7 @@ Whatipu is part of the waitakere ranges.
 <div>
 
 <h3>
+<center>
 
 Taking the photo at the end was quite something as it was very windy that day, and we were both tired.
 
@@ -130,7 +123,11 @@ I crab walked some of the way down!
 
 <div id="tgc">
 
+<center>
+
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
 
 </div>
 
