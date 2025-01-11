@@ -57,6 +57,10 @@ Drag the map around a bit to get a feel.
 flex-direction: column;
 justify-content: space-between;
 &#10;}
+&#10;.endwhatipu{
+&#10;float: right; 
+margin: 20px
+&#10;}
 &#10;
 .tgc{
 position: relative;
@@ -108,14 +112,14 @@ Whatipu is part of the waitakere ranges.
 
 <br></br>
 
-<p>
-<center>
+<div class="endwhatipu">
 
 Taking the photo at the end was quite something as it was very windy that day, and we were both tired.
 
 I crab walked some of the way down!
-</p>
-</center>
+
+</div>
+
 <hr>
 </hr>
 
