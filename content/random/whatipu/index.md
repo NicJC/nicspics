@@ -27,18 +27,20 @@ blogdown::html_page:
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
+<div class="startwhatipu">
+
+<h2>
 <p>
-<center>
 
 Whatipu was supposed to be a gentle walk, we landed up having a serious walk, pulling ourselves up by chains!
 
 There was a beautiful vista though, an amazing view!
 </p>
-</center>
+</div>
+</h2>
 <p>
 
 <b>
@@ -57,13 +59,21 @@ Drag the map around a bit to get a feel.
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;endwhatipu{
+&#10;.endwhatipu{
 border: 1px solid white;
   padding: 10px;
   width: 1500px;
   height: 200px;
   margin: 50px;
-  text-align: left;
+  text-align: right;
+&#10;}
+&#10;.startwhatipu{
+border: 1px solid white;
+  padding: 10px;
+  width: 1500px;
+  height: 200px;
+  margin: 50px;
+  text-align: center;
 &#10;}
 &#10;
 .tgc{
@@ -118,14 +128,12 @@ Whatipu is part of the waitakere ranges.
 
 <div class="endwhatipu">
 
-<center>
 <h3>
 
 Taking the photo at the end was quite something as it was very windy that day, and we were both tired.
 
 I crab walked some of the way down!
 </div>
-</center>
 </h3>
 <hr>
 </hr>
@@ -133,6 +141,8 @@ I crab walked some of the way down!
 <div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
 
 </div>
 
