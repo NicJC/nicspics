@@ -21,7 +21,7 @@ blogdown::html_page:
   <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-<div class="startwhatipu"><h3>
+<div><h3>
 <p>
 Whatipu was supposed to be a gentle walk, we landed up having a serious walk, pulling ourselves up by chains!
 
@@ -48,17 +48,9 @@ justify-content: space-between;
 
 }
 
-endwhatipu{
-border: 1px solid white;
-  padding: 10px;
-  width: 1500px;
-  height: 200px;
-  margin: 50px;
-  text-align: right;
 
-}
 
-startwhatipu{
+div{
 border: 1px solid white;
   padding: 10px;
   width: 1500px;
@@ -135,7 +127,7 @@ Whatipu is part of the waitakere ranges.
 
 <br></br>
 
-<div class="endwhatipu"><h3>
+<div><h3>
 Taking the photo at the end was quite something as it was very windy that day, and we were both tired.
 
 I crab walked some of the way down!

@@ -31,7 +31,7 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
-<div class="startwhatipu">
+<div>
 
 <h3>
 <p>
@@ -56,15 +56,8 @@ Drag the map around a bit to get a feel.
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;endwhatipu{
-border: 1px solid white;
-  padding: 10px;
-  width: 1500px;
-  height: 200px;
-  margin: 50px;
-  text-align: right;
-&#10;}
-&#10;startwhatipu{
+&#10;
+&#10;div{
 border: 1px solid white;
   padding: 10px;
   width: 1500px;
@@ -123,7 +116,7 @@ Whatipu is part of the waitakere ranges.
 
 <br></br>
 
-<div class="endwhatipu">
+<div>
 
 <h3>
 
