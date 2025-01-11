@@ -69,8 +69,3 @@ Use the map below to scroll through the area of Picton!
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_131654(0).jpg" class="img-responsive" alt="" width="1200" height="1400"/>
 
 </div>
-
-<br></br>
-
-<hr>
-</hr>
