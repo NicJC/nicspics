@@ -57,9 +57,13 @@ Drag the map around a bit to get a feel.
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;.endwhatipu{
-&#10;  text-align: left;
-  padding:100px;
+&#10;endwhatipu{
+border: 1px solid white;
+  padding: 10px;
+  width: 1500px;
+  height: 200px;
+  margin: 50px;
+  text-align: left;
 &#10;}
 &#10;
 .tgc{
@@ -114,17 +118,22 @@ Whatipu is part of the waitakere ranges.
 
 <div class="endwhatipu">
 
+<center>
+<h3>
+
 Taking the photo at the end was quite something as it was very windy that day, and we were both tired.
 
 I crab walked some of the way down!
-
 </div>
-
+</center>
+</h3>
 <hr>
 </hr>
 
 <div id="tgc">
 
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+
+</div>
 
 </div>

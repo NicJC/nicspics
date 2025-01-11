@@ -46,10 +46,13 @@ justify-content: space-between;
 
 }
 
-.endwhatipu{
-
+endwhatipu{
+border: 1px solid white;
+  padding: 10px;
+  width: 1500px;
+  height: 200px;
+  margin: 50px;
   text-align: left;
-  padding:100px;
 
 }
 
@@ -120,11 +123,11 @@ Whatipu is part of the waitakere ranges.
 
 <br></br>
 
-<div class="endwhatipu">
+<div class="endwhatipu"><center><h3>
 Taking the photo at the end was quite something as it was very windy that day, and we were both tired.
 
 I crab walked some of the way down!
-</div>
+</div></center></h3>
 
 <hr></hr>
 
