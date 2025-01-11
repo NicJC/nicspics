@@ -118,16 +118,13 @@ Taking the photo at the end was quite something as it was very windy that day, a
 I crab walked some of the way down!
 </div>
 </h3>
+</center>
 <hr>
 </hr>
 
 <div id="tgc">
 
-<center>
-
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
-
-</div>
 
 </div>
 
