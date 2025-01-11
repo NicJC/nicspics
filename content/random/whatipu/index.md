@@ -58,9 +58,8 @@ flex-direction: column;
 justify-content: space-between;
 &#10;}
 &#10;.endwhatipu{
-&#10;float: right; 
-margin: 15px;
-padding: 25px;
+&#10;  text-align: left;
+  padding:100px;
 &#10;}
 &#10;
 .tgc{
