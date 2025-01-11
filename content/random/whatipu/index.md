@@ -27,12 +27,13 @@ blogdown::html_page:
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
 <div class="startwhatipu">
 
-<h2>
+<h3>
 <p>
 
 Whatipu was supposed to be a gentle walk, we landed up having a serious walk, pulling ourselves up by chains!
@@ -40,26 +41,22 @@ Whatipu was supposed to be a gentle walk, we landed up having a serious walk, pu
 There was a beautiful vista though, an amazing view!
 </p>
 </div>
-</h2>
+</h3>
 <p>
 
-<b>
 Use the map below to scroll through the area of whatipu!
 
 There is a channel between the 2 peices of land, whatipu and the manukau heads which is also very beautiful.
 
 Drag the map around a bit to get a feel.
 </p>
-
-</b>
-
 <style>
 &#10;.whatipupics{
 &#10;display: flex;
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;.endwhatipu{
+&#10;endwhatipu{
 border: 1px solid white;
   padding: 10px;
   width: 1500px;
@@ -67,7 +64,7 @@ border: 1px solid white;
   margin: 50px;
   text-align: right;
 &#10;}
-&#10;.startwhatipu{
+&#10;startwhatipu{
 border: 1px solid white;
   padding: 10px;
   width: 1500px;
