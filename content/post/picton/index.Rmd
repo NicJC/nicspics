@@ -25,31 +25,7 @@ justify-content: space-between;
 
 }
 
-.module {
-  margin: 10px;
-  width: 230px;
-  height: 150px;
-  float: left;
-  background: url(https://github.com/NicJC/nicspics/blob/main/content/post/picton/images/20201231_134537-PANO.jpg);
-  background-size: cover;
-  position: relative;
-}
 
-h2 {
-  position: absolute;
-  bottom: 10px;
-  left: 10px;
-  background: rgba(0, 0, 0, 0.75);
-  padding: 4px 8px;
-  color: white;
-  margin: 0;
-  font: 14px Sans-Serif;
-}
-
-.opp h2 {
-  background: rgba(255, 255, 255, 0.75);
-  color: black;
-}
 
 
 </style>
@@ -159,7 +135,4 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 </div>
 
 
-<div class="module opp">
-  <h2>Running Shoes and Water</h2>
-</div>
 </body>

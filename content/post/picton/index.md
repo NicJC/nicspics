@@ -31,29 +31,7 @@ blogdown::html_page:
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;.module {
-  margin: 10px;
-  width: 230px;
-  height: 150px;
-  float: left;
-  background: url(https://github.com/NicJC/nicspics/blob/main/content/post/picton/images/20201231_134537-PANO.jpg);
-  background-size: cover;
-  position: relative;
-}
-&#10;h2 {
-  position: absolute;
-  bottom: 10px;
-  left: 10px;
-  background: rgba(0, 0, 0, 0.75);
-  padding: 4px 8px;
-  color: white;
-  margin: 0;
-  font: 14px Sans-Serif;
-}
-&#10;.opp h2 {
-  background: rgba(255, 255, 255, 0.75);
-  color: black;
-}
+&#10;
 &#10;
 </style>
 <body>
@@ -123,14 +101,6 @@ The map is interactive.
 <img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000056.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/newyearsPicton1 (1 of 1).jpg" class="img-responsive" alt="" width="1100" height="1000"/>
-
-</div>
-
-<div class="module opp">
-
-<h2>
-Running Shoes and Water
-</h2>
 
 </div>
 
