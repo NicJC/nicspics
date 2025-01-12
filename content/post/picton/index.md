@@ -52,7 +52,9 @@ We were here over a new year’s eve, and had some amazing fireworks in the bay.
 
 <p>
 
-Use the map below to scroll through the area of Christchurch!
+Use the map below to scroll through the area of Picton.
+
+We did kayaking, many walks and we also walked to the Snout! Check it out on the map.
 
 </p>
 
