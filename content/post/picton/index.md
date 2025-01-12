@@ -31,7 +31,7 @@ blogdown::html_page:
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;.p1{
+&#10;p1{
 text-align: left;
 color: blacl;
 &#10;}
