@@ -25,15 +25,7 @@ justify-content: space-between;
 
 }
 
-.container1 {
-            display: flex;
-            align-items: center;
-        }
-.container1 img {
-            margin-right: 10px;
-            border-radius: 6px;
-            border: 1.0px solid black;
-        }
+
 
 </style>
 
@@ -76,10 +68,9 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 
 
 
-<div class="container1">
-    <img src="https://nicspics.netlify.app/post/picton/images/nelson.jpg" alt="" width="1000" height="1000">
-    <p>Picton harbour</p>
-</div>
+
+
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" class="img-responsive" alt="" width="1000" height="1000"/><br />
 
 
 
