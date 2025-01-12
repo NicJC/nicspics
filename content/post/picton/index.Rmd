@@ -65,7 +65,7 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 
 
 
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_131654(0).jpg" class="img-responsive" alt="" width="1200" height="1000"/><label>"Address: <input name="address"></label>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_131654(0).jpg" class="img-responsive" alt="" width="1200" height="1000"/><label>"address"></label>
 
 <img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
 
