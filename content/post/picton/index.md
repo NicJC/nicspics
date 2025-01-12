@@ -83,7 +83,11 @@ The map is interactive.
 
 <img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_104224.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
 
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000004.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_122226.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
+
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_121449.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
+
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000004.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
 
 <img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000330.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
 
