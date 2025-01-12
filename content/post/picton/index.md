@@ -36,7 +36,7 @@ justify-content: space-between;
   width: 230px;
   height: 150px;
   float: left;
-  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/shoes.jpg);
+  background: url(https://github.com/NicJC/nicspics/blob/main/content/post/picton/images/20201231_134537-PANO.jpg);
   background-size: cover;
   position: relative;
 }
