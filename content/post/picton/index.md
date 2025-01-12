@@ -31,10 +31,8 @@ blogdown::html_page:
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;p{
-color: red;
-}
-&#10;</style>
+&#10;
+</style>
 <body>
 
 <div>
@@ -81,39 +79,43 @@ Picton harbour
 
 <br />
 
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20201231_134546.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20201231_134546.jpg" class="img-responsive" alt="" width="1100" height="1000"/><br />
 
-<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_083254.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_083254.jpg" class="img-responsive" alt="" width="1100" height="1000"/><br />
 
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_083031.jpg" class="img-responsive" alt="stingray" width="1100" height="1000"/>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_083031.jpg" class="img-responsive" alt="stingray" width="1100" height="1000"/><br />
 
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_103135.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_103135.jpg" class="img-responsive" alt="" width="1100" height="1000"/><br />
 
-<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_103123.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_103123.jpg" class="img-responsive" alt="" width="1100" height="1000"/><br />
 
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_104224.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_104224.jpg" class="img-responsive" alt="" width="1100" height="1000"/><br />
 
-<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_122226.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_122226.jpg" class="img-responsive" alt="" width="1100" height="1000"/><br />
 
 <img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_121449.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
 <figcaption>
 Sea kayaking!
 </figcaption>
 
-<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000004.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
+<br />
 
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000330.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000004.jpg" class="img-responsive" alt="" width="1000" height="1000"/><br />
 
-<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000200.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000330.jpg" class="img-responsive" alt="" width="1000" height="1000"/><br />
 
-<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000150.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000200.jpg" class="img-responsive" alt="" width="1000" height="1000"/><br />
 
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000135.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000150.jpg" class="img-responsive" alt="" width="1000" height="1000"/><br />
 
-<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000056.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000135.jpg" class="img-responsive" alt="" width="1000" height="1000"/><br />
 
-<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/newyearsPicton1 (1 of 1).jpg" class="img-responsive" alt="" width="1100" height="1000"/>
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_000056.jpg" class="img-responsive" alt="" width="1000" height="1000"/><br />
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/newyearsPicton1 (1 of 1).jpg" class="img-responsive" alt="" width="1100" height="1000"/><br />
 
 </div>
 
+<hr>
+</hr>
 </body>
