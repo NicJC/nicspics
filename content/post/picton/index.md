@@ -49,6 +49,8 @@ We were here over a new year’s eve, and had some amazing fireworks in the bay.
 
 </div>
 
+<br>
+
 <p>
 Use the map below to scroll through the area of Christchurch!
 The map is interactive.
@@ -66,7 +68,7 @@ The map is interactive.
 
 <div class="pictonpics">
 
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_131654(0).jpg" class="img-responsive" alt="" width="1200" height="1000"/>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_131654(0).jpg" class="img-responsive" alt="" width="1200" height="1000"/><label>“Address: <input name="address"></label>
 
 <img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" class="img-responsive" alt="" width="1000" height="1000"/>
 
