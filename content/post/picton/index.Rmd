@@ -25,7 +25,7 @@ justify-content: space-between;
 
 }
 
-p1img {
+#p1img {
   vertical-align: top;
 }
 
