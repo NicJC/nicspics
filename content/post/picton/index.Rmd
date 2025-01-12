@@ -70,7 +70,8 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 
 
 
-<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" class="img-responsive" alt="" width="1000" height="1000"/><br />
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" class="img-responsive" alt="" width="1000" height="1000"/><figcaption>
+Picton harbour</figcaption><br />
 
 
 
