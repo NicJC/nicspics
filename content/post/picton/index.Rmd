@@ -1,0 +1,71 @@
+---
+title: picton
+author: ''
+date: '2024-12-24'
+tags:
+  - picton
+draft: no
+blogdown::html_page:
+  css: /css/style.css
+  code_folding: hide
+  fig_caption: yes
+---
+
+<link rel="stylesheet" href="styles.css" />
+<br></br>
+
+
+<style>
+
+.pictonpics{
+
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+
+
+</style>
+
+<body>
+
+<div>
+<h3>
+<center>
+Picton was a real supprise to us. It is very beautiful, small but it had everything!
+
+We were here over a new year's eve, and had some amazing fireworks in the bay.
+</center>
+</h3>
+</div>
+
+<p>
+Use the map below to scroll through the area of Christchurch!
+The map is interactive.
+</p>
+
+
+```{r echo=FALSE, warning=FALSE, fig.height=5, fig.width=14, cache=TRUE , fig.cap="Picton map"}
+library(leaflet)
+library(knitr)
+
+m <- leaflet() %>% addTiles() %>% setView(174.006452, -41.288479, zoom = 18)
+m  #  -41.288479, 174.006452
+
+opts_chunk$set(comment="", fig.align="center", tidy=TRUE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+<div class="pictonpics">
+
+
+
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_131654(0).jpg" class="img-responsive" alt="on the edge" width="1200" height="1000"/>
+
+<img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" class="img-responsive" alt="on the edge" width="1000" height="1000"/>
+
+<img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/newyearsPicton1 (1 of 1).jpg" class="img-responsive" alt="on the edge" width="1100" height="1000"/>
+
+</div>
+</body>
