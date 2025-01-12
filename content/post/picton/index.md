@@ -75,7 +75,6 @@ Use the map below to scroll through the area of Christchurch!
 Picton harbour
 </p>
 
-<br>
 <img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" class="img-responsive" alt="" width="1000" height="1000"/><br />
 
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20201231_134537-PANO.jpg" class="img-responsive" alt="" width="1600" height="1000"/><br />
