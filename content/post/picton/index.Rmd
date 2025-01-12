@@ -25,7 +25,9 @@ justify-content: space-between;
 
 }
 
-
+.figcaption{
+color: red;
+}
 
 </style>
 
@@ -98,7 +100,8 @@ Picton harbour</figcaption><br />
 <img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_122226.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
 
 
-<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_121449.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
+<img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210102_121449.jpg" class="img-responsive" alt="" width="1100" height="1000"/><figcaption>
+Sea kayaking!</figcaption>
 
 
 
