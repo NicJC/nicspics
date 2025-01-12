@@ -31,16 +31,16 @@ blogdown::html_page:
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;.img1{
+&#10;img1{
     color: red;
     display: inline-block;
     border: 1px dotted gray;
     margin: 20px; /* adjust as needed */
 }
-&#10;.img1 img {
+&#10;img1 img {
     vertical-align: top;
 }
-&#10;.img1 figcaption {
+&#10;img1 figcaption {
     border: 1px dotted blue;
     text-align: center;
 }

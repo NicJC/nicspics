@@ -25,18 +25,18 @@ justify-content: space-between;
 
 }
 
-.img1{
+img1{
     color: red;
     display: inline-block;
     border: 1px dotted gray;
     margin: 20px; /* adjust as needed */
 }
 
-.img1 img {
+img1 img {
     vertical-align: top;
 }
 
-.img1 figcaption {
+img1 figcaption {
     border: 1px dotted blue;
     text-align: center;
 }
