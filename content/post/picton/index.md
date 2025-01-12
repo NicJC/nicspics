@@ -126,14 +126,6 @@ The map is interactive.
 
 </div>
 
-<div class="module">
-
-<h2>
-Title here
-</h2>
-
-</div>
-
 <div class="module opp">
 
 <h2>

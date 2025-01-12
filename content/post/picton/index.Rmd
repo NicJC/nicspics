@@ -158,9 +158,7 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 
 </div>
 
-<div class="module">
-  <h2>Title here</h2>
-</div>
+
 <div class="module opp">
   <h2>Running Shoes and Water</h2>
 </div>
