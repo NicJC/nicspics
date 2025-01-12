@@ -1,14 +1,13 @@
 ---
-title: picton
+title: "picton"
 author: ''
-date: '2024-12-24'
-tags:
-  - picton
-draft: no
+date: "2024-12-24"
+tags: picton
+draft: false
 blogdown::html_page:
   css: /css/style.css
   code_folding: hide
-  fig_caption: yes
+  fig_caption: true
 ---
 
 <link href="{{< blogdown/postref >}}index_files/htmltools-fill/fill.css" rel="stylesheet" />
@@ -33,6 +32,7 @@ justify-content: space-between;
 &#10;}
 &#10;
 </style>
+<body>
 
 <div>
 
@@ -47,7 +47,6 @@ We were here over a new year’s eve, and had some amazing fireworks in the bay.
 
 </div>
 
-<style>
 <p>
 Use the map below to scroll through the area of Picton!
 </p>
@@ -66,6 +65,12 @@ Use the map below to scroll through the area of Picton!
 
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" class="img-responsive" alt="" width="1200" height="1050"/>
 
+<img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/newyearsPicton1 (1 of 1).jpg" class="img-responsive" alt="" width="1200" height="1200"/>
+
+![](images/newyearsPicton1%20(1%20of%201).jpg)
+
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20210101_131654(0).jpg" class="img-responsive" alt="" width="1200" height="1400"/>
 
 </div>
+
+</body>

@@ -25,6 +25,11 @@ blogdown::html_page:
 <link rel="stylesheet" href="styles.css" />
 <br></br>
 
+<p>
+Use the map above to scroll through the area of Coromandel!
+The map is interactive.
+</p>
+
 <div class="figure">
 
 <div class="leaflet html-widget html-fill-item" id="htmlwidget-1" style="width:1344px;height:480px;"></div>
@@ -34,14 +39,6 @@ blogdown::html_page:
 </p>
 
 </div>
-
-<p>
-<b>
-Use the map above to scroll through the area of Coromandel!
-The map is interactive.
-</p>
-
-</b>
 
 <center>
 <img style="float: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/hahei beach.jpg" width="400" height="600"/>
