@@ -31,7 +31,7 @@ blogdown::html_page:
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;.p1img {
+&#10;p1img {
   vertical-align: top;
 }
 &#10;.p1{
