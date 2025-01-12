@@ -31,8 +31,18 @@ blogdown::html_page:
 flex-direction: column;
 justify-content: space-between;
 &#10;}
-&#10;.figcaption{
-color: red;
+&#10;.img1{
+    color: red;
+    display: inline-block;
+    border: 1px dotted gray;
+    margin: 20px; /* adjust as needed */
+}
+&#10;.img1 img {
+    vertical-align: top;
+}
+&#10;.img1 figcaption {
+    border: 1px dotted blue;
+    text-align: center;
 }
 &#10;</style>
 <body>
@@ -74,12 +84,16 @@ Use the map below to scroll through the area of Christchurch!
 
 <img style="text-align: right; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/nelson.jpg" class="img-responsive" alt="" width="1000" height="1000"/><br />
 
+<div id="img1">
+
 <img style="text-align: center; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20201231_134537-PANO.jpg" class="img-responsive" alt="" width="1600" height="1000"/>
 <figcaption>
 Picton harbour
 </figcaption>
 
 <br />
+
+</div>
 
 <img style="text-align: left; margin: 10px 10px 15px 15px;border-radius: 6px;border: 1.0px solid black;" src="images/20201231_134546.jpg" class="img-responsive" alt="" width="1100" height="1000"/>
 
