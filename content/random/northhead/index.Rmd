@@ -166,9 +166,9 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <div id="tgc">
 
-
+<center>
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
-
+</center>
 </div>
 
 
