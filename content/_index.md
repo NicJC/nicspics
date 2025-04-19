@@ -21,7 +21,7 @@ tags:
 <body>
 
 <div class="main">
-<<<<<<< HEAD
+
 <p>
 
 We've been taking photos, and not really sharing them. These photos have gone into some or other storage, whether it's been Google cloud, 
