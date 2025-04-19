@@ -36,14 +36,17 @@ blogdown::html_page:
 <h3>
 <center>
 North head is very close to auckland CBD but to get there by car takes some time due to the traffic being so congested!
-A lot of people will simply catch a ferry across the bay to get to Auckland CBD. There is a dedicated ferry service from Devon Port which is basically where North head is situated.
+<p>
+A lot of people will simply catch a ferry across the bay to get to Auckland CBD. There is a dedicated ferry service from Devon Port
+</p>
+<p>
+which is basically where North head is situated.
+</p>
 </div>
 </h3>
 </center>
 <p>
-
 Use the map below to scroll through the area of North head, see how close it is to Auckland CBD!
-
 </p>
 <style>
 &#10;.northheadpics{
@@ -137,7 +140,9 @@ Some of the awesome photos we took here! If you download any of these photos, th
 
 <div id="tgc">
 
+<center>
 [back to tag cloud](https://nicspics.netlify.app/tags/random/)
+</center>
 
 </div>
 
