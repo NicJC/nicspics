@@ -23,7 +23,7 @@ color: black;
 <div class="main">
 <p>
 
-We've been taking photos, and not really sharing them. These photos have gone into some or other storage, whether it's be Google cloud, 
+We've been taking photos, and not really sharing them. These photos have gone into some or other storage, whether it's been Google cloud, 
 
 a portable hard-disk or O365 storage.
 
@@ -35,7 +35,7 @@ I've used a pretty fast framework "Hugo" to build the site which should make it 
 I'm working through all this 'other storage' to come up with some decent pictures.
 
 
-Creating the website would allow for people all over the world to view these photos too, and download them if they so wished to.
+Creating the website would allow for people all over the world to view these photos too, and download them if they wanted to.
 
 I thought I'd add a map to the give people an idea , a sense of the area, and just add a bunch of photos from that particular experience.
 
